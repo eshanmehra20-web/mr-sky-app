@@ -40,7 +40,8 @@ jobs:
             libstdc++6 \
             libz1 \
             unzip \
-            ant
+            ant \
+            libltdl-dev
 
     - name: Install Buildozer and Cython
       run: |
@@ -60,20 +61,6 @@ jobs:
         sed -i 's/# android.api = 33/android.api = 33/' buildozer.spec
         sed -i 's/# android.minapi = 21/android.minapi = 21/' buildozer.spec
         sed -i 's/#android.accept_sdk_license = False/android.accept_sdk_license = True/' buildozer.spec
-
-    - name: Preinstall Android SDK and command-line tools
-      run: |
-        mkdir -p $HOME/.buildozer/android/platform/android-sdk/cmdline-tools
-        wget https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip -O cmdtools.zip
-        unzip -q cmdtools.zip -d temp_tools
-        mkdir -p $HOME/.buildozer/android/platform/android-sdk/cmdline-tools/latest
-        mv temp_tools/cmdline-tools/* $HOME/.buildozer/android/platform/android-sdk/cmdline-tools/latest/
-        rm -rf cmdtools.zip temp_tools
-        
-        # Accept licenses automatically
-        mkdir -p $HOME/.buildozer/android/platform/android-sdk/licenses
-        echo "24333f8a63b6825ea9c5514f83c2829b004d1fee" > $HOME/.buildozer/android/platform/android-sdk/licenses/android-sdk-license
-        echo "d56f5187479451eabf01fb78af6dfcb131a64810" >> $HOME/.buildozer/android/platform/android-sdk/licenses/android-sdk-license
 
     - name: Build APK with Buildozer
       run: |
