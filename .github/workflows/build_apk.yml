@@ -16,7 +16,13 @@ jobs:
       with:
         python-version: '3.10'
 
-    - name: Install dependencies
+    - name: Set up Java
+      uses: actions/setup-java@v4
+      with:
+        distribution: 'temurin'
+        java-version: '17'
+
+    - name: Install system dependencies
       run: |
         sudo apt-get update
         sudo apt-get install -y \
@@ -27,21 +33,22 @@ jobs:
             libffi-dev \
             libssl-dev \
             zlib1g-dev \
-            openjdk-17-jdk \
             autoconf \
             libtool \
             pkg-config \
             libncurses5-dev \
             libstdc++6 \
-            libz1
+            libz1 \
+            unzip \
+            ant
 
     - name: Install Buildozer and Cython
       run: |
         pip install --upgrade pip
         pip install cython==0.29.36
-        pip install buildozer
+        pip install --upgrade buildozer
 
-    - name: Initialize Buildozer Spec
+    - name: Initialize and Configure Buildozer Spec
       run: |
         buildozer init || true
         sed -i 's/# title = My Application/title = Mr. Sky Sentinel/' buildozer.spec
@@ -52,10 +59,21 @@ jobs:
         sed -i 's/# android.permissions = INTERNET/android.permissions = INTERNET/' buildozer.spec
         sed -i 's/# android.api = 33/android.api = 33/' buildozer.spec
         sed -i 's/# android.minapi = 21/android.minapi = 21/' buildozer.spec
+        # नीचे की लाइनें बिना किसी प्रॉम्प्ट के सभी एंड्रॉइड लाइसेंस अपने आप स्वीकार कर लेंगी
+        sed -i 's/#android.accept_sdk_license = False/android.accept_sdk_license = True/' buildozer.spec
 
-    - name: Build APK with Buildozer
+    - name: Accept Android SDK Licenses Manually
       run: |
-        echo y | buildozer -v android debug
+        mkdir -p ~/.android
+        touch ~/.android/repositories.cfg
+        export ANDROID_HOME=$HOME/.buildozer/android/platform/android-sdk
+        mkdir -p $ANDROID_HOME/licenses
+        echo "24333f8a63b6825ea9c5514f83c2829b004d1fee" > $ANDROID_HOME/licenses/android-sdk-license
+        echo "d56f5187479451eabf01fb78af6dfcb131a64810" >> $ANDROID_HOME/licenses/android-sdk-license
+
+    - name: Build APK with Buildozer (Advanced Mode)
+      run: |
+        buildozer -v android debug
 
     - name: Upload APK Artifact
       uses: actions/upload-artifact@v4
