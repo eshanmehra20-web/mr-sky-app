@@ -62,9 +62,16 @@ jobs:
         sed -i 's/# android.minapi = 21/android.minapi = 21/' buildozer.spec
         sed -i 's/#android.accept_sdk_license = False/android.accept_sdk_license = True/' buildozer.spec
 
+    - name: Force Accept Android SDK Licenses
+      run: |
+        mkdir -p /home/runner/.buildozer/android/platform/android-sdk/licenses
+        echo "24333f8a63b6825ea9c5514f83c2829b004d1fee" > /home/runner/.buildozer/android/platform/android-sdk/licenses/android-sdk-license
+        echo "d56f5187479451eabf01fb78af6dfcb131a64810" >> /home/runner/.buildozer/android/platform/android-sdk/licenses/android-sdk-license
+        echo "84831b9409646a918e30573bab4c9c91346d8abd" >> /home/runner/.buildozer/android/platform/android-sdk/licenses/android-sdk-license
+
     - name: Build APK with Buildozer
       run: |
-        buildozer -v android debug
+        echo y | buildozer -v android debug
 
     - name: Upload APK Artifact
       uses: actions/upload-artifact@v4
