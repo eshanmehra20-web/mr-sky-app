@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mr. Sky</title>
+    <link rel="manifest" href="manifest.json">
+    <style>
+        body { font-family: sans-serif; background: #121212; color: #fff; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; }
+        .container { width: 100%; max-width: 400px; padding: 20px; box-sizing: border-box; }
+        .hidden { display: none; }
+        input, textarea { width: 100%; padding: 10px; margin: 10px 0; background: #222; border: 1px solid #444; color: #fff; box-sizing: border-box; }
+        button { width: 100%; padding: 10px; background: #00bcd4; border: none; color: #000; font-weight: bold; cursor: pointer; }
+    </style>
+</head>
+<body>
+
+    <div class="container" id="lock-screen">
+        <h2>Mr. Sky - Secure Vault</h2>
+        <p>सुरक्षा पिन दर्ज करें:</p>
+        <input type="password" id="pin-input" placeholder="4-अंकों का पिन" maxlength="4">
+        <button onclick="verifyPin()">खोलें / अनलॉकिंग करें</button>
+        <p id="error-msg" style="color: #ff5252; font-size: 14px;"></p>
+    </div>
+
+    <div class="container hidden" id="app-screen">
+        <h2>Mr. Sky Terminal & Ledger</h2>
+        <textarea id="ledger-data" rows="6" placeholder="यहाँ अपना लेखा डेटा या नोट्स लिखें..."></textarea>
+        <button onclick="saveData()">डेटा सुरक्षित रखें (Save)</button>
+        <p id="save-status" style="color: #4caf50; font-size: 14px;"></p>
+        <button onclick="lockApp()" style="background: #f44336; color: #fff; margin-top: 20px;">लॉक करें (Lock)</button>
+    </div>
+
+    <script>
+        // डिफॉल्ट पिन का SHA-256 हैश (यहाँ डिफ़ॉल्ट पिन "1234" सेट है, जिसे आप बदल सकते हैं)
+        // "1234" का sha256: 03ac674216f3e15c761eelase255f067953623c8b388b4459e13f978d7c846f4
+        const CORRECT_PIN_HASH = "03ac674216f3e15c761eelase255f067953623c8b388b4459e13f978d7c846f4";
+
+        async function sha256(message) {
+            const msgBuffer = new TextEncoder().encode(message);
+            const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
+            const hashArray = Array.from(new Uint8Array(hashBuffer));
+            return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+        }
+
+        async function verifyPin() {
+            const pin = document.getElementById('pin-input').value;
+            const hashedInput = await sha256(pin);
+
+            if (hashedInput === CORRECT_PIN_HASH) {
+                document.getElementById('lock-screen').classList.add('hidden');
+                document.getElementById('app-screen').classList.remove('hidden');
+                loadData();
+            } else {
+                document.getElementById('error-msg').innerText = "गलत पिन! कृपया पुनः प्रयास करें।";
+            }
+        }
+
+        function saveData() {
+            const data = document.getElementById('ledger-data').value;
+            localStorage.setItem('mr_sky_ledger', JSON.stringify({ content: data, time: new Date().toISOString() }));
+            document.getElementById('save-status').innerText = "डेटा सफलतापूर्व सुरक्षित हो गया है!";
+            setTimeout(() => document.getElementById('save-status').innerText = "", 3000);
+        }
+
+        function loadData() {
+            const saved = localStorage.getItem('mr_sky_ledger');
+            if (saved) {
+                try {
+                    const parsed = JSON.parse(saved);
+                    document.getElementById('ledger-data').value = parsed.content || "";
+                } catch(e) {}
+            }
+        }
+
+        function lockApp() {
+            document.getElementById('pin-input').value = "";
+            document.getElementById('error-msg').innerText = "";
+            document.getElementById('app-screen').classList.add('hidden');
+            document.getElementById('lock-screen').classList.remove('hidden');
+        }
+    </script>
+</body>
+</html>
