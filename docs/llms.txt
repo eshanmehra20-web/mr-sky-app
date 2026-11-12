@@ -1,6 +1,7 @@
 # Omni-Hub
 
-> Open-source developer resources.
+> A curated collection of free computer programming books in Chinese.
+Ideal for self‑taught learners seeking language‑specific resources.
 
 ## Resources
 

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T17:58:56Z",
+  "updated": "2026-11-12T18:05:05Z",
   "categories": {
     "📈 Rising this month": [
       {
@@ -148,7 +148,7 @@
         "name": "public-apis/public-apis",
         "url": "https://github.com/public-apis/public-apis",
         "desc": "A collective list of free APIs",
-        "stars": 498486,
+        "stars": 498488,
         "pushed": "2026-11-11"
       },
       {
@@ -162,7 +162,7 @@
         "name": "public-api-lists/public-api-lists",
         "url": "https://github.com/public-api-lists/public-api-lists",
         "desc": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
-        "stars": 16374,
+        "stars": 16373,
         "pushed": "2026-09-14"
       },
       {
@@ -185,7 +185,7 @@
         "name": "nilbuild/developer-roadmap",
         "url": "https://github.com/nilbuild/developer-roadmap",
         "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-        "stars": 371906,
+        "stars": 371907,
         "pushed": "2026-11-12"
       },
       {
@@ -243,7 +243,7 @@
         "name": "tt-a1i/archify",
         "url": "https://github.com/tt-a1i/archify",
         "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-        "stars": 95864,
+        "stars": 95868,
         "pushed": "2026-11-12"
       },
       {
@@ -259,14 +259,14 @@
         "name": "affaan-m/ECC",
         "url": "https://github.com/affaan-m/ECC",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 301862,
+        "stars": 301863,
         "pushed": "2026-11-09"
       },
       {
         "name": "deepseek-ai/deepseek-harness",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
-        "stars": 279694,
+        "stars": 279697,
         "pushed": "2026-11-11"
       },
       {
@@ -287,7 +287,7 @@
         "name": "DietrichGebert/ponytail",
         "url": "https://github.com/DietrichGebert/ponytail",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 189657,
+        "stars": 189658,
         "pushed": "2026-10-29"
       }
     ],
@@ -296,7 +296,7 @@
         "name": "EbookFoundation/free-programming-books",
         "url": "https://github.com/EbookFoundation/free-programming-books",
         "desc": ":books: Freely available programming books",
-        "stars": 401488,
+        "stars": 401489,
         "pushed": "2026-11-07"
       },
       {
@@ -326,7 +326,7 @@
         "name": "codecrafters-io/build-your-own-x",
         "url": "https://github.com/codecrafters-io/build-your-own-x",
         "desc": "Master programming by recreating your favorite technologies from scratch.",
-        "stars": 562088,
+        "stars": 562089,
         "pushed": "2026-11-08"
       },
       {
@@ -377,7 +377,7 @@
         "name": "TheAlgorithms/Python",
         "url": "https://github.com/TheAlgorithms/Python",
         "desc": "All Algorithms implemented in Python",
-        "stars": 226048,
+        "stars": 226049,
         "pushed": "2026-11-11"
       },
       {
@@ -400,21 +400,21 @@
         "name": "sindresorhus/awesome",
         "url": "https://github.com/sindresorhus/awesome",
         "desc": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
-        "stars": 535818,
+        "stars": 535819,
         "pushed": "2026-09-02"
       },
       {
         "name": "awesome-selfhosted/awesome-selfhosted",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
         "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
-        "stars": 336396,
+        "stars": 336398,
         "pushed": "2026-11-07"
       },
       {
         "name": "vinta/awesome-python",
         "url": "https://github.com/vinta/awesome-python",
         "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-        "stars": 334274,
+        "stars": 334276,
         "pushed": "2026-11-08"
       },
       {
@@ -428,7 +428,7 @@
         "name": "avelino/awesome-go",
         "url": "https://github.com/avelino/awesome-go",
         "desc": "A curated list of awesome Go frameworks, libraries and software",
-        "stars": 193513,
+        "stars": 193514,
         "pushed": "2026-11-12"
       }
     ]
