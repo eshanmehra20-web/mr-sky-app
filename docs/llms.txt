@@ -1,6 +1,8 @@
 # Omni-Hub
 
-> Open-source developer resources.
+> A community-maintained collection of free Chinese programming books for developers at all levels.
+
+It welcomes contributions and covers foundational and advanced computer science topics.
 
 ## Resources
 
@@ -51,7 +53,7 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail): Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 ### 📚 Free Books
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
-- [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN): :books: 免费的计算机编程类中文书籍，欢迎投稿
+- [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN): Free Chinese programming books, community-maintained, welcome contributions.
 - [Mr6MJT/LearnForFREE](https://github.com/Mr6MJT/LearnForFREE): These are some books that will help you in your learning,I got them in my cyber security career, These books for: pentesting, programming, n
 - [sx4im/programming-books-pdf](https://github.com/sx4im/programming-books-pdf): Free programming books library: 670+ books across 32 languages, searchable and free forever
 ### 🔨 Build From Scratch

@@ -10,7 +10,6 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from xml.sax.saxutils import escape as xml_escape
-from google import genai
 
 API = "https://api.github.com"
 UA = {"User-Agent": "Omni-Hub/2.0"}
@@ -140,9 +139,9 @@ def discover(config):
     return categories, rising
 
 def ai_text(config, repos, pick):
-    key = os.getenv("GEMINI_API_KEY")
+    key = os.getenv("OPENROUTER_API_KEY")
     if not key:
-        log_activity("AI_FALLBACK", "GEMINI_API_KEY absent; deterministic copy used")
+        log_activity("AI_FALLBACK", "OPENROUTER_API_KEY absent; deterministic copy used")
         return {}
     prompt = f"""
 You are an honest developer-resource curator. Use only the supplied repository names and
@@ -154,9 +153,21 @@ Return only JSON: intro (2-3 lines), quickstart (safe useful tip), pick_reason (
 descriptions (object keyed by exact repo name; each value max 14 words).
 """
     try:
-        response = genai.Client(api_key=key).models.generate_content(
-            model=config["settings"]["ai_model"], contents=prompt)
-        data = json.loads(strip_fences(response.text))
+        # openrouter/free selects only currently available free models.
+        # Never add paid models to this request or its fallback list.
+        _, result = post_json(
+            "https://openrouter.ai/api/v1/chat/completions",
+            {"model": "openrouter/free",
+             "messages": [{"role": "user", "content": prompt}],
+             "temperature": 0.2},
+            {"Authorization": "Bearer " + key,
+             "HTTP-Referer": "https://github.com/eshanmehra20-web/mr-sky-app",
+             "X-Title": "Omni-Hub"})
+        choices = result.get("choices") or []
+        content = choices[0].get("message", {}).get("content") if choices else None
+        if isinstance(content, list):
+            content = "".join(part.get("text", "") for part in content if isinstance(part, dict))
+        data = json.loads(strip_fences(content if isinstance(content, str) else ""))
         if not isinstance(data, dict):
             raise ValueError("AI output must be a JSON object")
         valid_names = {r["name"] for r in repos}
@@ -166,9 +177,10 @@ descriptions (object keyed by exact repo name; each value max 14 words).
         for k in ("intro", "quickstart", "pick_reason"):
             if k in data and not isinstance(data[k], str):
                 data.pop(k)
+        log_activity("OPENROUTER_OK", {"model": result.get("model", "openrouter/free")})
         return data
     except Exception as exc:
-        log_activity("AI_FALLBACK", str(exc))
+        log_activity("AI_FALLBACK", {"provider": "OpenRouter free router", "error": str(exc)})
         return {}
 
 def safe_md(value, limit=140):

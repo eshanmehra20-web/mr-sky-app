@@ -1,5 +1,5 @@
 {
-  "settings": {"ai_model": "gemini-3.8-flash", "output_file": "README.md"},
+  "settings": {"ai_provider": "openrouter", "ai_model": "openrouter/free", "output_file": "README.md"},
   "per_category": 5,
   "categories": [
     {"name": "🔌 Free APIs", "query": "public apis in:name,description"},
