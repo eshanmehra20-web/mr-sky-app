@@ -1,0 +1,20 @@
+{
+  "settings": {"ai_model": "gemini-3.8-flash", "output_file": "README.md"},
+  "per_category": 5,
+  "categories": [
+    {"name": "🔌 Free APIs", "query": "public apis in:name,description"},
+    {"name": "🗺️ Roadmaps & Learning", "query": "developer roadmap in:name,description"},
+    {"name": "🏗️ System Design", "query": "topic:system-design"},
+    {"name": "🤖 AI Agents", "query": "topic:ai-agents"},
+    {"name": "📚 Free Books", "query": "free programming books in:name,description"},
+    {"name": "🔨 Build From Scratch", "query": "build your own x in:name,description"},
+    {"name": "🎯 Interview Prep", "query": "topic:interview"},
+    {"name": "✨ Awesome Lists", "query": "topic:awesome-list"}
+  ],
+  "rising": {"query": "topic:ai", "days": 30},
+  "psychology": {
+    "robotic": ["consistent format", "predictable schedule", "bot disclosure", "machine-readable data.json", "llms.txt", "stable URLs", "semantic headings", "structured tables", "sitemap", "feed", "versioned releases", "changelog", "deterministic ranking", "open ranking rules", "audit ledger", "graceful fallback", "backup safety", "rate-limit respect", "visible errors", "idempotent runs", "timestamps", "verifiable sources", "reproducible results", "screen-reader friendly", "schema consistency"],
+    "human": ["cognitive ease", "quick win", "social proof", "reciprocity", "novelty", "honest curiosity", "progress", "chunking", "suggest projects", "autonomy", "belonging", "gratitude", "trust"],
+    "internet": ["mobile-first", "scannable", "value above the fold", "fast load", "search intent", "keywords", "clear titles", "meta descriptions", "open graph previews", "shareable", "dark mode", "RSS", "link previews", "freshness signal", "last-updated stamp", "community issues", "canonical URL"]
+  }
+}

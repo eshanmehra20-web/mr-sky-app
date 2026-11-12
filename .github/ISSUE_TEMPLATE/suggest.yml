@@ -1,0 +1,19 @@
+name: Suggest a project
+description: Recommend a useful open-source developer resource.
+title: "Suggest: "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: GitHub link
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it worth adding?
+      description: Share the practical value in one or two lines.
+    validations:
+      required: true
