@@ -2,11 +2,9 @@
 
 ![Stars](https://img.shields.io/github/stars/eshanmehra20-web/mr-sky-app?style=flat-square) ![Updated](https://img.shields.io/github/last-commit/eshanmehra20-web/mr-sky-app?label=auto-updated&style=flat-square)
 
-A community-maintained collection of free Chinese programming books for developers at all levels.
+This repository hosts free Chinese programming books for learners. It encourages community contributions of new titles. Ideal for self-study and language practice.
 
-It welcomes contributions and covers foundational and advanced computer science topics.
-
-> **Live pulse:** 39 projects · 8 categories · checked 2026-11-12T18:15:18Z
+> **Live pulse:** 39 projects · 8 categories · checked 2026-11-12T18:44:11Z
 > 🔎 Searchable website: https://eshanmehra20-web.github.io/mr-sky-app/
 
 ## ⚡ Start here
@@ -16,12 +14,12 @@ It welcomes contributions and covers foundational and advanced computer science 
 3. [public-apis/public-apis](https://github.com/public-apis/public-apis) — A collective list of free APIs
 
 ```bash
-Open the repository on GitHub, browse the folder structure by topic, and read or clone any book you need.
+Start by browsing the book list and adding new titles via the contribution guidelines.
 ```
 
 ## 🎯 Pick of the day (2026-11-12)
 
-**[justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)** ⭐ 119,593 — It offers a freely accessible, Chinese-language library of programming books maintained by the community.
+**[justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)** ⭐ 119,594 — It provides a curated collection of free Chinese programming resources for developers.
 
 ## 📈 Rising this month
 
@@ -40,8 +38,8 @@ Open the repository on GitHub, browse the folder structure by topic, and read or
 | [rtora/munorai](https://github.com/rtora/munorai) | Supercharge the AI you already use. Greener. Better. Faster. Cheaper. | 306 | 2026-11-02 |
 | [hhtower/price-comparison](https://github.com/hhtower/price-comparison) | AI 订阅与卡网比价平台，说出需求，让 AI 帮你选。聚合 ChatGPT / Codex、Claude、Gemini 等代充或账号报价，对比价格走势、充值渠道与质保。AI-powered shopping and price comparison for subscriptio | 305 | 2026-11-12 |
 | [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) | Can AI agents rebuild websites through browser exploration? | 274 | 2026-11-10 |
+| [StashDock/StashDock](https://github.com/StashDock/StashDock) | Your AI-native personal context library. Collect, organize and reuse context across AI conversations. | 247 | 2026-11-06 |
 | [enmerasoftware/ai-design-check](https://github.com/enmerasoftware/ai-design-check) | Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. E | 246 | 2026-11-08 |
-| [StashDock/StashDock](https://github.com/StashDock/StashDock) | Your AI-native personal context library. Collect, organize and reuse context across AI conversations. | 246 | 2026-11-06 |
 | [lwh0630/TokenBar](https://github.com/lwh0630/TokenBar) | Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter | 208 | 2026-11-10 |
 | [gh9ko8y/graphmemory](https://github.com/gh9ko8y/graphmemory) | Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis) | 201 | 2026-10-30 |
 | [heterodoxin/AbliteratedOutTheBox](https://github.com/heterodoxin/AbliteratedOutTheBox) | llama.cpp fork that abliterates at inference | 196 | 2026-10-24 |
@@ -52,7 +50,7 @@ Open the repository on GitHub, browse the folder structure by topic, and read or
 
 | Resource | Why it matters | ⭐ Stars | Updated |
 |---|---|---:|---|
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | 498,490 | 2026-11-11 |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | 498,495 | 2026-11-11 |
 | [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) | 📚 A public list of APIs from round the web. | 24,107 | 2026-05-03 |
 | [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) | A curated list of free public APIs — searchable, community-maintained, with a free JSON API. | 16,373 | 2026-09-14 |
 | [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) | A collaborative list of public APIs for developers | 9,721 | 2026-11-12 |
@@ -62,7 +60,7 @@ Open the repository on GitHub, browse the folder structure by topic, and read or
 
 | Resource | Why it matters | ⭐ Stars | Updated |
 |---|---|---:|---|
-| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 371,908 | 2026-11-12 |
+| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 371,905 | 2026-11-12 |
 | [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) | Roadmap to becoming an ASP.NET Core developer in 2026 | 19,671 | 2026-01-29 |
 | [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) | DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and referenc | 10,898 | 2026-11-03 |
 | [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) |  🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems. | 7,806 | 2026-05-08 |
@@ -73,27 +71,27 @@ Open the repository on GitHub, browse the folder structure by topic, and read or
 | Resource | Why it matters | ⭐ Stars | Updated |
 |---|---|---:|---|
 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 | 186,501 | 2026-11-09 |
-| [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 | 159,547 | 2026-10-25 |
+| [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 | 159,546 | 2026-10-25 |
 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | Curated coding interview preparation materials for busy software engineers | 143,277 | 2026-08-07 |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. | 95,870 | 2026-11-12 |
-| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems | 75,665 | 2026-01-04 |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. | 95,874 | 2026-11-12 |
+| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems | 75,666 | 2026-01-04 |
 
 ## 🤖 AI Agents
 
 | Resource | Why it matters | ⭐ Stars | Updated |
 |---|---|---:|---|
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code | 301,870 | 2026-11-09 |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin. | 279,698 | 2026-11-11 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | 262,921 | 2026-11-12 |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥 | 201,223 | 2026-11-12 |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | 189,661 | 2026-10-29 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code | 301,886 | 2026-11-09 |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin. | 279,701 | 2026-11-11 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | 262,922 | 2026-11-12 |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥 | 201,230 | 2026-11-12 |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | 189,670 | 2026-10-29 |
 
 ## 📚 Free Books
 
 | Resource | Why it matters | ⭐ Stars | Updated |
 |---|---|---:|---|
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | 401,490 | 2026-11-07 |
-| [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | Free Chinese programming books, community-maintained, welcome contributions. | 119,593 | 2026-07-29 |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | 401,488 | 2026-11-12 |
+| [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | Free Chinese programming books, open for community contributions. | 119,594 | 2026-07-29 |
 | [Mr6MJT/LearnForFREE](https://github.com/Mr6MJT/LearnForFREE) | These are some books that will help you in your learning,I got them in my cyber security career, These books for: pentesting, programming, n | 98 | 2026-09-29 |
 | [sx4im/programming-books-pdf](https://github.com/sx4im/programming-books-pdf) | Free programming books library: 670+ books across 32 languages, searchable and free forever | 68 | 2026-09-27 |
 
@@ -101,7 +99,7 @@ Open the repository on GitHub, browse the folder structure by topic, and read or
 
 | Resource | Why it matters | ⭐ Stars | Updated |
 |---|---|---:|---|
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. | 562,094 | 2026-11-08 |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. | 562,099 | 2026-11-08 |
 | [stochasticai/xTuring](https://github.com/stochasticai/xTuring) | Build, personalize and control your own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-sour | 2,680 | 2026-11-05 |
 | [LuwuDynamics/xgoduck_hardware](https://github.com/LuwuDynamics/xgoduck_hardware) | Build your own robot duck. XGO-Duck is a 3D-printable biped powered by Arduino UNO Q and 15 servos, adapted from Pollen Robotics' Microduck. | 1,907 | 2026-11-11 |
 | [amitshekhariitbhu/build-your-own-x-machine-learning](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning) | Build your own X - Master machine learning by building everything from scratch. It aims to cover everything from linear regression to deep l | 783 | 2026-07-04 |
@@ -111,21 +109,21 @@ Open the repository on GitHub, browse the folder structure by topic, and read or
 
 | Resource | Why it matters | ⭐ Stars | Updated |
 |---|---|---:|---|
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | 377,697 | 2026-09-15 |
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | 364,312 | 2026-11-07 |
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python | 226,049 | 2026-11-11 |
-| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | 196,729 | 2026-07-26 |
-| [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic,  | 86,771 | 2025-12-27 |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | 377,699 | 2026-09-15 |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | 364,311 | 2026-11-07 |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python | 226,048 | 2026-11-11 |
+| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | 196,728 | 2026-07-26 |
+| [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic,  | 86,772 | 2025-12-27 |
 
 ## ✨ Awesome Lists
 
 | Resource | Why it matters | ⭐ Stars | Updated |
 |---|---|---:|---|
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with t | 535,823 | 2026-09-02 |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | 336,398 | 2026-11-07 |
-| [vinta/awesome-python](https://github.com/vinta/awesome-python) | The definitive list that answers "I want to do X in Python, which tool should I use?" | 334,277 | 2026-11-08 |
-| [ossu/computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! | 211,045 | 2026-11-09 |
-| [avelino/awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software | 193,515 | 2026-11-12 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with t | 535,833 | 2026-09-02 |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | 336,403 | 2026-11-07 |
+| [vinta/awesome-python](https://github.com/vinta/awesome-python) | The definitive list that answers "I want to do X in Python, which tool should I use?" | 334,279 | 2026-11-08 |
+| [ossu/computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! | 211,044 | 2026-11-09 |
+| [avelino/awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software | 193,520 | 2026-11-12 |
 
 ---
 ### How this page stays alive

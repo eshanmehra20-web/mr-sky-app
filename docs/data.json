@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T18:15:18Z",
+  "updated": "2026-11-12T18:44:11Z",
   "categories": {
     "📈 Rising this month": [
       {
@@ -94,18 +94,18 @@
         "pushed": "2026-11-10"
       },
       {
+        "name": "StashDock/StashDock",
+        "url": "https://github.com/StashDock/StashDock",
+        "desc": "Your AI-native personal context library. Collect, organize and reuse context across AI conversations.",
+        "stars": 247,
+        "pushed": "2026-11-06"
+      },
+      {
         "name": "enmerasoftware/ai-design-check",
         "url": "https://github.com/enmerasoftware/ai-design-check",
         "desc": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
         "stars": 246,
         "pushed": "2026-11-08"
-      },
-      {
-        "name": "StashDock/StashDock",
-        "url": "https://github.com/StashDock/StashDock",
-        "desc": "Your AI-native personal context library. Collect, organize and reuse context across AI conversations.",
-        "stars": 246,
-        "pushed": "2026-11-06"
       },
       {
         "name": "lwh0630/TokenBar",
@@ -148,7 +148,7 @@
         "name": "public-apis/public-apis",
         "url": "https://github.com/public-apis/public-apis",
         "desc": "A collective list of free APIs",
-        "stars": 498490,
+        "stars": 498495,
         "pushed": "2026-11-11"
       },
       {
@@ -185,7 +185,7 @@
         "name": "nilbuild/developer-roadmap",
         "url": "https://github.com/nilbuild/developer-roadmap",
         "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-        "stars": 371908,
+        "stars": 371905,
         "pushed": "2026-11-12"
       },
       {
@@ -229,7 +229,7 @@
         "name": "Snailclimb/JavaGuide",
         "url": "https://github.com/Snailclimb/JavaGuide",
         "desc": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-        "stars": 159547,
+        "stars": 159546,
         "pushed": "2026-10-25"
       },
       {
@@ -243,14 +243,14 @@
         "name": "tt-a1i/archify",
         "url": "https://github.com/tt-a1i/archify",
         "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-        "stars": 95870,
+        "stars": 95874,
         "pushed": "2026-11-12"
       },
       {
         "name": "binhnguyennus/awesome-scalability",
         "url": "https://github.com/binhnguyennus/awesome-scalability",
         "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
-        "stars": 75665,
+        "stars": 75666,
         "pushed": "2026-01-04"
       }
     ],
@@ -259,35 +259,35 @@
         "name": "affaan-m/ECC",
         "url": "https://github.com/affaan-m/ECC",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 301870,
+        "stars": 301886,
         "pushed": "2026-11-09"
       },
       {
         "name": "deepseek-ai/deepseek-harness",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
-        "stars": 279698,
+        "stars": 279701,
         "pushed": "2026-11-11"
       },
       {
         "name": "NousResearch/hermes-agent",
         "url": "https://github.com/NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": 262921,
+        "stars": 262922,
         "pushed": "2026-11-12"
       },
       {
         "name": "firecrawl/firecrawl",
         "url": "https://github.com/firecrawl/firecrawl",
         "desc": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-        "stars": 201223,
+        "stars": 201230,
         "pushed": "2026-11-12"
       },
       {
         "name": "DietrichGebert/ponytail",
         "url": "https://github.com/DietrichGebert/ponytail",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 189661,
+        "stars": 189670,
         "pushed": "2026-10-29"
       }
     ],
@@ -296,14 +296,14 @@
         "name": "EbookFoundation/free-programming-books",
         "url": "https://github.com/EbookFoundation/free-programming-books",
         "desc": ":books: Freely available programming books",
-        "stars": 401490,
-        "pushed": "2026-11-07"
+        "stars": 401488,
+        "pushed": "2026-11-12"
       },
       {
         "name": "justjavac/free-programming-books-zh_CN",
         "url": "https://github.com/justjavac/free-programming-books-zh_CN",
-        "desc": "Free Chinese programming books, community-maintained, welcome contributions.",
-        "stars": 119593,
+        "desc": "Free Chinese programming books, open for community contributions.",
+        "stars": 119594,
         "pushed": "2026-07-29"
       },
       {
@@ -326,7 +326,7 @@
         "name": "codecrafters-io/build-your-own-x",
         "url": "https://github.com/codecrafters-io/build-your-own-x",
         "desc": "Master programming by recreating your favorite technologies from scratch.",
-        "stars": 562094,
+        "stars": 562099,
         "pushed": "2026-11-08"
       },
       {
@@ -363,35 +363,35 @@
         "name": "donnemartin/system-design-primer",
         "url": "https://github.com/donnemartin/system-design-primer",
         "desc": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
-        "stars": 377697,
+        "stars": 377699,
         "pushed": "2026-09-15"
       },
       {
         "name": "jwasham/coding-interview-university",
         "url": "https://github.com/jwasham/coding-interview-university",
         "desc": "A complete computer science study plan to become a software engineer.",
-        "stars": 364312,
+        "stars": 364311,
         "pushed": "2026-11-07"
       },
       {
         "name": "TheAlgorithms/Python",
         "url": "https://github.com/TheAlgorithms/Python",
         "desc": "All Algorithms implemented in Python",
-        "stars": 226049,
+        "stars": 226048,
         "pushed": "2026-11-11"
       },
       {
         "name": "trekhleb/javascript-algorithms",
         "url": "https://github.com/trekhleb/javascript-algorithms",
         "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-        "stars": 196729,
+        "stars": 196728,
         "pushed": "2026-07-26"
       },
       {
         "name": "bregman-arie/devops-exercises",
         "url": "https://github.com/bregman-arie/devops-exercises",
         "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
-        "stars": 86771,
+        "stars": 86772,
         "pushed": "2025-12-27"
       }
     ],
@@ -400,35 +400,35 @@
         "name": "sindresorhus/awesome",
         "url": "https://github.com/sindresorhus/awesome",
         "desc": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
-        "stars": 535823,
+        "stars": 535833,
         "pushed": "2026-09-02"
       },
       {
         "name": "awesome-selfhosted/awesome-selfhosted",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
         "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
-        "stars": 336398,
+        "stars": 336403,
         "pushed": "2026-11-07"
       },
       {
         "name": "vinta/awesome-python",
         "url": "https://github.com/vinta/awesome-python",
         "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-        "stars": 334277,
+        "stars": 334279,
         "pushed": "2026-11-08"
       },
       {
         "name": "ossu/computer-science",
         "url": "https://github.com/ossu/computer-science",
         "desc": "🎓 Path to a free self-taught education in Computer Science!",
-        "stars": 211045,
+        "stars": 211044,
         "pushed": "2026-11-09"
       },
       {
         "name": "avelino/awesome-go",
         "url": "https://github.com/avelino/awesome-go",
         "desc": "A curated list of awesome Go frameworks, libraries and software",
-        "stars": 193515,
+        "stars": 193520,
         "pushed": "2026-11-12"
       }
     ]
