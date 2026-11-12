@@ -131,7 +131,7 @@ def discover(config):
     rc = config.get("rising")
     if rc:
         try:
-            day = (now() - dt.timedelta(days=max(1, int(rc.get("days", 30)))).date()
+            day = (now() - dt.timedelta(days=max(1, int(rc.get("days", 30))))).date()
             q = f"{rc['query']} created:>{day} stars:>10 fork:false archived:false"
             url = f"{API}/search/repositories?q={urllib.parse.quote(q)}&sort=stars&order=desc&per_page=20"
             rising = [normalize(x) for x in gh_get(url).get("items", [])]
