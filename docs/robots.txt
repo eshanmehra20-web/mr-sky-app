@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eshanmehra20-web.github.io/mr-sky-app/sitemap.xml
