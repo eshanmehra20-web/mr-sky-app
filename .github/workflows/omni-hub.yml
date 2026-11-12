@@ -42,6 +42,7 @@ jobs:
           DEVTO_PUBLISH: "0"
         run: python main.py
       - name: Commit generated content
+        if: github.event_name != 'pull_request'
         run: |
           git config user.name "omni-hub-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
