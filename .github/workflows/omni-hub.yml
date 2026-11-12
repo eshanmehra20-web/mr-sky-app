@@ -1,5 +1,7 @@
 name: Omni-Hub Sync
 on:
+  push:
+    branches: [main, omni-hub-upgrade]
   schedule:
     - cron: "17 3 * * *"
   workflow_dispatch:
