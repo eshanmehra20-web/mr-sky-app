@@ -1,0 +1,41 @@
+name: Omni-Hub Sync
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: omni-hub-sync
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run Omni-Hub
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
+          DEVTO_PUBLISH: "0"
+        run: python main.py
+      - name: Commit generated content
+        run: |
+          git config user.name "omni-hub-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md README.md.bak state.json ledger.jsonl docs
+          git diff --cached --quiet || git commit -m "auto: Omni-Hub daily refresh"
+          git push
