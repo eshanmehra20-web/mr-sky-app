@@ -1,7 +1,7 @@
 name: Omni-Hub Sync
 on:
   push:
-    branches: [main, omni-hub-upgrade]
+    branches: [main, omni-hub-upgrade, openrouter-free-engine]
   schedule:
     - cron: "17 3 * * *"
   workflow_dispatch:
