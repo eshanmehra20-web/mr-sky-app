@@ -13,7 +13,13 @@ class ProjectIntegrityTests(unittest.TestCase):
         config = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
         self.assertEqual(len(config["categories"]), 8)
         self.assertEqual(config["settings"]["output_file"], "README.md")
-        self.assertEqual(config["settings"]["ai_model"], "gemini-3.8-flash")
+        self.assertEqual(config["settings"]["ai_provider"], "openrouter")
+        self.assertEqual(config["settings"]["ai_model"], "openrouter/free")
+        source = (ROOT / "main.py").read_text(encoding="utf-8")
+        self.assertIn("OPENROUTER_API_KEY", source)
+        self.assertIn("https://openrouter.ai/api/v1/chat/completions", source)
+        self.assertIn('"model": "openrouter/free"', source)
+        self.assertNotIn("google import genai", source)
 
     def test_required_automation_files_exist(self):
         self.assertTrue((ROOT / ".github/workflows/omni-hub.yml").is_file())
