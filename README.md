@@ -4,7 +4,7 @@
 
 Discover useful open-source developer resources, refreshed automatically.
 
-> **Live pulse:** 39 projects · 8 categories · checked 2026-11-12T17:08:52Z
+> **Live pulse:** 39 projects · 8 categories · checked 2026-11-12T17:09:42Z
 > 🔎 Searchable website: https://eshanmehra20-web.github.io/mr-sky-app/
 
 ## ⚡ Start here
@@ -80,7 +80,7 @@ Discover useful open-source developer resources, refreshed automatically.
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin. | 279,675 | 2026-11-11 |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | 262,916 | 2026-11-12 |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥 | 201,197 | 2026-11-12 |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | 189,636 | 2026-10-29 |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | 189,637 | 2026-10-29 |
 
 ## 📚 Free Books
 
