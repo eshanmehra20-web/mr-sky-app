@@ -11,6 +11,8 @@ import urllib.parse
 import urllib.request
 from xml.sax.saxutils import escape as xml_escape
 
+from psychology_engine import framework_summary, prompt_guidance
+
 API = "https://api.github.com"
 UA = {"User-Agent": "Omni-Hub/2.0"}
 UTC = dt.timezone.utc
@@ -146,7 +148,7 @@ def ai_text(config, repos, pick):
     prompt = f"""
 You are an honest developer-resource curator. Use only the supplied repository names and
 descriptions; never invent capabilities, metrics, urgency or scarcity.
-Psychology guidance: {json.dumps(config.get('psychology', {}), ensure_ascii=False)}
+Psychology guidance: {prompt_guidance()}
 Repositories: {json.dumps([{'name': r['name'], 'desc': r['desc']} for r in repos], ensure_ascii=False)}
 Pick: {pick['name']}
 Return only JSON: intro (2-3 lines), quickstart (safe useful tip), pick_reason (one sentence),
@@ -200,7 +202,8 @@ def build_readme(cats, rising, new_items, ai, pick, repo, base, stamp):
     if repo:
         out += [f"![Stars](https://img.shields.io/github/stars/{repo}?style=flat-square) ![Updated](https://img.shields.io/github/last-commit/{repo}?label=auto-updated&style=flat-square)", ""]
     out += [ai.get("intro", "Discover useful open-source developer resources, refreshed automatically."),
-            "", f"> **Live pulse:** {len(all_rows)} projects · {len(cats)} categories · checked {stamp}"]
+            "", f"> **Live pulse:** {len(all_rows)} projects · {len(cats)} categories · checked {stamp}",
+            "> **Ethical UX:** 4 psychology cycles · 120 principles · privacy-first"]
     if base:
         out.append(f"> 🔎 Searchable website: {base}")
     out += ["", "## ⚡ Start here", ""]
@@ -250,7 +253,7 @@ el.innerHTML=h||'<p>No match.</p>'}q.addEventListener('input',draw);draw();</scr
 def write_site(cats, rising, desc, ai, feed, base, stamp):
     os.makedirs("docs", exist_ok=True)
     groups = ({"📈 Rising this month": rising} if rising else {}) | cats
-    data = {"updated": stamp, "categories": {
+    data = {"updated": stamp, "psychology_framework": framework_summary(), "categories": {
         name: [{"name": r["name"], "url": r["url"], "desc": desc.get(r["name"]) or r["desc"],
                 "stars": r["stars"], "pushed": r["pushed"]} for r in rows]
         for name, rows in groups.items()}}
