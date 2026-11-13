@@ -62,6 +62,11 @@
   ],
   "feed": [
     {
+      "date": "2026-11-13",
+      "title": "Pick: tt-a1i/archify",
+      "summary": "It turns any idea, plan, or codebase into a beautiful interactive diagram as an agent skill."
+    },
+    {
       "date": "2026-11-12",
       "title": "Pick: justjavac/free-programming-books-zh_CN",
       "summary": "It provides a curated collection of free Chinese programming resources for developers."

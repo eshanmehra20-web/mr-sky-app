@@ -1,6 +1,6 @@
 # Omni-Hub
 
-> This repository hosts free Chinese programming books for learners. It encourages community contributions of new titles. Ideal for self-study and language practice.
+> I focused on developer resources from the supplied list and selected one for a concise look. The choice stays within the provided description without adding unverified claims. This is a small, honest curation rather than a broad recommendation.
 
 ## Resources
 
@@ -15,9 +15,9 @@
 - [shipwords-dev/shipwords](https://github.com/shipwords-dev/shipwords): Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. \| 新词站群框架：一个新词一
 - [amitshekhariitbhu/forward-deployed-engineer-roadmap](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap): Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.
 - [mrhlaingbwardev/agentic-hacking-skills](https://github.com/mrhlaingbwardev/agentic-hacking-skills): AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)
+- [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench): Can AI agents rebuild websites through browser exploration?
 - [rtora/munorai](https://github.com/rtora/munorai): Supercharge the AI you already use. Greener. Better. Faster. Cheaper.
 - [hhtower/price-comparison](https://github.com/hhtower/price-comparison): AI 订阅与卡网比价平台，说出需求，让 AI 帮你选。聚合 ChatGPT / Codex、Claude、Gemini 等代充或账号报价，对比价格走势、充值渠道与质保。AI-powered shopping and price comparison for subscriptio
-- [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench): Can AI agents rebuild websites through browser exploration?
 - [StashDock/StashDock](https://github.com/StashDock/StashDock): Your AI-native personal context library. Collect, organize and reuse context across AI conversations.
 - [enmerasoftware/ai-design-check](https://github.com/enmerasoftware/ai-design-check): Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. E
 - [lwh0630/TokenBar](https://github.com/lwh0630/TokenBar): Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter
@@ -41,7 +41,7 @@
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes): :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide): Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): Curated coding interview preparation materials for busy software engineers
-- [tt-a1i/archify](https://github.com/tt-a1i/archify): Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+- [tt-a1i/archify](https://github.com/tt-a1i/archify): Turns ideas, plans, or codebases into interactive diagrams; agent skill.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 ### 🤖 AI Agents
 - [affaan-m/ECC](https://github.com/affaan-m/ECC): The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code
@@ -51,7 +51,7 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail): Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 ### 📚 Free Books
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
-- [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN): Free Chinese programming books, open for community contributions.
+- [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN): :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [Mr6MJT/LearnForFREE](https://github.com/Mr6MJT/LearnForFREE): These are some books that will help you in your learning,I got them in my cyber security career, These books for: pentesting, programming, n
 - [sx4im/programming-books-pdf](https://github.com/sx4im/programming-books-pdf): Free programming books library: 670+ books across 32 languages, searchable and free forever
 ### 🔨 Build From Scratch
