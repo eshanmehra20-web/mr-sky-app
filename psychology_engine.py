@@ -194,7 +194,7 @@ def prompt_guidance() -> str:
         "NEED: answer the stated task, reduce friction, explain limitations.",
         "HUMAN: be respectful, accessible, privacy-preserving and non-coercive.",
         "ROBOTIC: be accurate, testable, transparent, secure and cost-aware.",
-        "MONEY: disclose real prices and limits; no fake urgency or hidden upsells.",
+        "MONEY: disclose real prices and limits; no fake urgency or hidden upsells; never enable paid services without approval.",
         "Never infer sensitive traits, invent proof, or claim unverified outcomes.",
     ]
     return "\n".join(lines)
