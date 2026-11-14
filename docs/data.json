@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-13T10:55:25Z",
+  "updated": "2026-11-14T10:19:29Z",
   "categories": {
     "📈 Rising this month": [
       {
         "name": "huaxialucaicaizi/ai-startup-skills",
         "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
         "desc": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-        "stars": 924,
+        "stars": 925,
         "pushed": "2026-11-13"
       },
       {
@@ -20,50 +20,57 @@
         "name": "hevnsnt/CVEngine",
         "url": "https://github.com/hevnsnt/CVEngine",
         "desc": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-        "stars": 713,
-        "pushed": "2026-11-13"
+        "stars": 717,
+        "pushed": "2026-11-14"
       },
       {
         "name": "Alejandros17487/ai-jailbreaks",
         "url": "https://github.com/Alejandros17487/ai-jailbreaks",
         "desc": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
-        "stars": 442,
+        "stars": 434,
         "pushed": "2026-10-21"
       },
       {
         "name": "RabbittuX/purrge",
         "url": "https://github.com/RabbittuX/purrge",
         "desc": "🐾 Purrge — macOS AI 磁盘清理工具，支持 Claude Code 和 Codex：空间不足时提醒，AI 逐项判断能清什么，你勾选确认后才清理",
-        "stars": 396,
+        "stars": 433,
         "pushed": "2026-11-11"
-      },
-      {
-        "name": "JunWan666/astrbot-for-android",
-        "url": "https://github.com/JunWan666/astrbot-for-android",
-        "desc": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
-        "stars": 375,
-        "pushed": "2026-11-09"
       },
       {
         "name": "0xCoach/TaoSheng",
         "url": "https://github.com/0xCoach/TaoSheng",
         "desc": "涛声 TaoSheng：用一部安卓手机全天收音 → 转写 → 认人 → AI 整理成待办与记忆。无需硬件、无需账号，数据只在你手机里。",
-        "stars": 372,
+        "stars": 389,
         "pushed": "2026-11-13"
+      },
+      {
+        "name": "JunWan666/astrbot-for-android",
+        "url": "https://github.com/JunWan666/astrbot-for-android",
+        "desc": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
+        "stars": 379,
+        "pushed": "2026-11-09"
       },
       {
         "name": "shipwords-dev/shipwords",
         "url": "https://github.com/shipwords-dev/shipwords",
         "desc": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
-        "stars": 369,
-        "pushed": "2026-11-11"
+        "stars": 371,
+        "pushed": "2026-11-13"
+      },
+      {
+        "name": "TIGER-AI-Lab/WebsiteBench",
+        "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
+        "desc": "Can AI agents rebuild websites through browser exploration?",
+        "stars": 361,
+        "pushed": "2026-11-10"
       },
       {
         "name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
         "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
         "desc": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
-        "stars": 352,
-        "pushed": "2026-11-13"
+        "stars": 360,
+        "pushed": "2026-11-14"
       },
       {
         "name": "mrhlaingbwardev/agentic-hacking-skills",
@@ -73,74 +80,67 @@
         "pushed": "2026-11-01"
       },
       {
-        "name": "TIGER-AI-Lab/WebsiteBench",
-        "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-        "desc": "Can AI agents rebuild websites through browser exploration?",
-        "stars": 314,
-        "pushed": "2026-11-10"
-      },
-      {
-        "name": "rtora/munorai",
-        "url": "https://github.com/rtora/munorai",
-        "desc": "Supercharge the AI you already use. Greener. Better. Faster. Cheaper.",
-        "stars": 308,
-        "pushed": "2026-11-02"
+        "name": "StashDock/StashDock",
+        "url": "https://github.com/StashDock/StashDock",
+        "desc": "Your AI-native personal context library. Collect, organize and reuse context across AI conversations.",
+        "stars": 315,
+        "pushed": "2026-11-13"
       },
       {
         "name": "hhtower/price-comparison",
         "url": "https://github.com/hhtower/price-comparison",
         "desc": "AI 订阅与卡网比价平台，说出需求，让 AI 帮你选。聚合 ChatGPT / Codex、Claude、Gemini 等代充或账号报价，对比价格走势、充值渠道与质保。AI-powered shopping and price comparison for subscriptions and accounts, with cross-shop offers, price history and purchase details.",
-        "stars": 307,
-        "pushed": "2026-11-13"
+        "stars": 312,
+        "pushed": "2026-11-14"
       },
       {
-        "name": "StashDock/StashDock",
-        "url": "https://github.com/StashDock/StashDock",
-        "desc": "Your AI-native personal context library. Collect, organize and reuse context across AI conversations.",
-        "stars": 280,
-        "pushed": "2026-11-06"
-      },
-      {
-        "name": "enmerasoftware/ai-design-check",
-        "url": "https://github.com/enmerasoftware/ai-design-check",
-        "desc": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
-        "stars": 247,
-        "pushed": "2026-11-08"
-      },
-      {
-        "name": "lwh0630/TokenBar",
-        "url": "https://github.com/lwh0630/TokenBar",
-        "desc": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
-        "stars": 210,
-        "pushed": "2026-11-10"
-      },
-      {
-        "name": "gh9ko8y/graphmemory",
-        "url": "https://github.com/gh9ko8y/graphmemory",
-        "desc": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)",
-        "stars": 201,
-        "pushed": "2026-10-30"
-      },
-      {
-        "name": "heterodoxin/AbliteratedOutTheBox",
-        "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
-        "desc": "llama.cpp fork that abliterates at inference",
-        "stars": 201,
-        "pushed": "2026-10-24"
-      },
-      {
-        "name": "h9-tec/ai-roadmap-2026",
-        "url": "https://github.com/h9-tec/ai-roadmap-2026",
-        "desc": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
-        "stars": 193,
-        "pushed": "2026-10-21"
-      },
-      {
-        "name": "tavern-labs-ai/persona-ai-sdk",
-        "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
-        "desc": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
-        "stars": 187,
+        "name": "rtora/munorai",
+        "url": "https://github.com/rtora/munorai",
+        "desc": "Supercharge the AI you already use. Greener. Better. Faster. Cheaper.",
+        "stars": 309,
         "pushed": "2026-11-02"
+      },
+      {
+        "name": "WinnerBrokerBarrow/ai--manus",
+        "url": "https://github.com/WinnerBrokerBarrow/ai--manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 257,
+        "pushed": "2026-11-14"
+      },
+      {
+        "name": "BrickMosquito/ai--manus",
+        "url": "https://github.com/BrickMosquito/ai--manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 257,
+        "pushed": "2026-11-14"
+      },
+      {
+        "name": "ArcherAmplify/ai--manus",
+        "url": "https://github.com/ArcherAmplify/ai--manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 257,
+        "pushed": "2026-11-14"
+      },
+      {
+        "name": "AmplitudePikemanHeed/ai--manus",
+        "url": "https://github.com/AmplitudePikemanHeed/ai--manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 257,
+        "pushed": "2026-11-14"
+      },
+      {
+        "name": "Shardclamove/ai--manus",
+        "url": "https://github.com/Shardclamove/ai--manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 256,
+        "pushed": "2026-11-14"
+      },
+      {
+        "name": "pyramidteachermap/ai--manus",
+        "url": "https://github.com/pyramidteachermap/ai--manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "stars": 256,
+        "pushed": "2026-11-14"
       }
     ],
     "🔌 Free APIs": [
@@ -148,8 +148,8 @@
         "name": "public-apis/public-apis",
         "url": "https://github.com/public-apis/public-apis",
         "desc": "A collective list of free APIs",
-        "stars": 498630,
-        "pushed": "2026-11-11"
+        "stars": 498882,
+        "pushed": "2026-11-13"
       },
       {
         "name": "n0shake/Public-APIs",
@@ -162,15 +162,15 @@
         "name": "public-api-lists/public-api-lists",
         "url": "https://github.com/public-api-lists/public-api-lists",
         "desc": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
-        "stars": 16380,
+        "stars": 16385,
         "pushed": "2026-09-14"
       },
       {
         "name": "marcelscruz/public-apis",
         "url": "https://github.com/marcelscruz/public-apis",
         "desc": "A collaborative list of public APIs for developers",
-        "stars": 9725,
-        "pushed": "2026-11-13"
+        "stars": 9727,
+        "pushed": "2026-11-14"
       },
       {
         "name": "googleapis/googleapis",
@@ -185,21 +185,21 @@
         "name": "nilbuild/developer-roadmap",
         "url": "https://github.com/nilbuild/developer-roadmap",
         "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-        "stars": 371937,
+        "stars": 371977,
         "pushed": "2026-11-13"
       },
       {
         "name": "MoienTajik/AspNetCore-Developer-Roadmap",
         "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
         "desc": "Roadmap to becoming an ASP.NET Core developer in 2026",
-        "stars": 19672,
+        "stars": 19670,
         "pushed": "2026-01-29"
       },
       {
         "name": "OffcierCia/DeFi-Developer-Road-Map",
         "url": "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
         "desc": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-        "stars": 10897,
+        "stars": 10899,
         "pushed": "2026-11-03"
       },
       {
@@ -213,7 +213,7 @@
         "name": "s4kibs4mi/java-developer-roadmap",
         "url": "https://github.com/s4kibs4mi/java-developer-roadmap",
         "desc": "Roadmap to becoming a Java developer in 2026",
-        "stars": 4551,
+        "stars": 4552,
         "pushed": "2026-10-06"
       }
     ],
@@ -222,35 +222,35 @@
         "name": "CyC2018/CS-Notes",
         "url": "https://github.com/CyC2018/CS-Notes",
         "desc": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
-        "stars": 186501,
-        "pushed": "2026-11-09"
+        "stars": 186506,
+        "pushed": "2026-11-14"
       },
       {
         "name": "Snailclimb/JavaGuide",
         "url": "https://github.com/Snailclimb/JavaGuide",
         "desc": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-        "stars": 159557,
+        "stars": 159561,
         "pushed": "2026-10-25"
       },
       {
         "name": "yangshun/tech-interview-handbook",
         "url": "https://github.com/yangshun/tech-interview-handbook",
         "desc": "Curated coding interview preparation materials for busy software engineers",
-        "stars": 143283,
+        "stars": 143291,
         "pushed": "2026-08-07"
       },
       {
         "name": "tt-a1i/archify",
         "url": "https://github.com/tt-a1i/archify",
-        "desc": "Turns ideas, plans, or codebases into interactive diagrams; agent skill.",
-        "stars": 96092,
-        "pushed": "2026-11-13"
+        "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+        "stars": 96316,
+        "pushed": "2026-11-14"
       },
       {
         "name": "binhnguyennus/awesome-scalability",
         "url": "https://github.com/binhnguyennus/awesome-scalability",
         "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
-        "stars": 75686,
+        "stars": 75717,
         "pushed": "2026-01-04"
       }
     ],
@@ -259,35 +259,35 @@
         "name": "affaan-m/ECC",
         "url": "https://github.com/affaan-m/ECC",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 302199,
+        "stars": 302609,
         "pushed": "2026-11-09"
       },
       {
         "name": "deepseek-ai/deepseek-harness",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
-        "stars": 280214,
+        "stars": 280832,
         "pushed": "2026-11-13"
       },
       {
         "name": "NousResearch/hermes-agent",
         "url": "https://github.com/NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": 263089,
-        "pushed": "2026-11-13"
+        "stars": 263275,
+        "pushed": "2026-11-14"
       },
       {
         "name": "firecrawl/firecrawl",
         "url": "https://github.com/firecrawl/firecrawl",
         "desc": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-        "stars": 201409,
+        "stars": 201661,
         "pushed": "2026-11-13"
       },
       {
         "name": "DietrichGebert/ponytail",
         "url": "https://github.com/DietrichGebert/ponytail",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 190026,
+        "stars": 190547,
         "pushed": "2026-10-29"
       }
     ],
@@ -296,14 +296,14 @@
         "name": "EbookFoundation/free-programming-books",
         "url": "https://github.com/EbookFoundation/free-programming-books",
         "desc": ":books: Freely available programming books",
-        "stars": 401525,
+        "stars": 401571,
         "pushed": "2026-11-12"
       },
       {
         "name": "justjavac/free-programming-books-zh_CN",
         "url": "https://github.com/justjavac/free-programming-books-zh_CN",
         "desc": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
-        "stars": 119597,
+        "stars": 119603,
         "pushed": "2026-07-29"
       },
       {
@@ -326,28 +326,28 @@
         "name": "codecrafters-io/build-your-own-x",
         "url": "https://github.com/codecrafters-io/build-your-own-x",
         "desc": "Master programming by recreating your favorite technologies from scratch.",
-        "stars": 562231,
+        "stars": 562429,
         "pushed": "2026-11-08"
       },
       {
         "name": "stochasticai/xTuring",
         "url": "https://github.com/stochasticai/xTuring",
         "desc": "Build, personalize and control your own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHXuSJEk6",
-        "stars": 2680,
+        "stars": 2681,
         "pushed": "2026-11-05"
       },
       {
         "name": "LuwuDynamics/xgoduck_hardware",
         "url": "https://github.com/LuwuDynamics/xgoduck_hardware",
         "desc": "Build your own robot duck. XGO-Duck is a 3D-printable biped powered by Arduino UNO Q and 15 servos, adapted from Pollen Robotics' Microduck. Includes mechanical models, PCB designs, a BOM, and an assembly guide. Build it, explore its motion, and make it your own.",
-        "stars": 1914,
+        "stars": 1930,
         "pushed": "2026-11-13"
       },
       {
         "name": "amitshekhariitbhu/build-your-own-x-machine-learning",
         "url": "https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning",
         "desc": "Build your own X - Master machine learning by building everything from scratch. It aims to cover everything from linear regression to deep learning to large language models (LLMs).",
-        "stars": 785,
+        "stars": 788,
         "pushed": "2026-07-04"
       },
       {
@@ -363,35 +363,35 @@
         "name": "donnemartin/system-design-primer",
         "url": "https://github.com/donnemartin/system-design-primer",
         "desc": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
-        "stars": 377743,
+        "stars": 377840,
         "pushed": "2026-09-15"
       },
       {
         "name": "jwasham/coding-interview-university",
         "url": "https://github.com/jwasham/coding-interview-university",
         "desc": "A complete computer science study plan to become a software engineer.",
-        "stars": 364322,
+        "stars": 364359,
         "pushed": "2026-11-07"
       },
       {
         "name": "TheAlgorithms/Python",
         "url": "https://github.com/TheAlgorithms/Python",
         "desc": "All Algorithms implemented in Python",
-        "stars": 226078,
+        "stars": 226095,
         "pushed": "2026-11-13"
       },
       {
         "name": "trekhleb/javascript-algorithms",
         "url": "https://github.com/trekhleb/javascript-algorithms",
         "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-        "stars": 196726,
+        "stars": 196724,
         "pushed": "2026-07-26"
       },
       {
         "name": "bregman-arie/devops-exercises",
         "url": "https://github.com/bregman-arie/devops-exercises",
-        "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
-        "stars": 86789,
+        "desc": "DevOps interview questions across Linux, Jenkins, AWS, SRE, Prometheus, Docker, Kubernetes, Terraform, SQL, and more.",
+        "stars": 86803,
         "pushed": "2025-12-27"
       }
     ],
@@ -400,36 +400,36 @@
         "name": "sindresorhus/awesome",
         "url": "https://github.com/sindresorhus/awesome",
         "desc": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
-        "stars": 536177,
+        "stars": 536617,
         "pushed": "2026-09-02"
       },
       {
         "name": "awesome-selfhosted/awesome-selfhosted",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
         "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
-        "stars": 336589,
+        "stars": 336880,
         "pushed": "2026-11-07"
       },
       {
         "name": "vinta/awesome-python",
         "url": "https://github.com/vinta/awesome-python",
         "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-        "stars": 334434,
+        "stars": 334651,
         "pushed": "2026-11-13"
       },
       {
         "name": "ossu/computer-science",
         "url": "https://github.com/ossu/computer-science",
         "desc": "🎓 Path to a free self-taught education in Computer Science!",
-        "stars": 211047,
+        "stars": 211074,
         "pushed": "2026-11-09"
       },
       {
         "name": "avelino/awesome-go",
         "url": "https://github.com/avelino/awesome-go",
         "desc": "A curated list of awesome Go frameworks, libraries and software",
-        "stars": 193644,
-        "pushed": "2026-11-12"
+        "stars": 193836,
+        "pushed": "2026-11-13"
       }
     ]
   }

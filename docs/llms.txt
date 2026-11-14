@@ -1,6 +1,6 @@
 # Omni-Hub
 
-> I focused on developer resources from the supplied list and selected one for a concise look. The choice stays within the provided description without adding unverified claims. This is a small, honest curation rather than a broad recommendation.
+> bregman-arie/devops-exercises is a collection of DevOps interview questions spanning Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, and Virtualization. Use it as a self-check checklist before interviews.
 
 ## Resources
 
@@ -10,21 +10,21 @@
 - [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine): AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP inte
 - [Alejandros17487/ai-jailbreaks](https://github.com/Alejandros17487/ai-jailbreaks): AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Mod
 - [RabbittuX/purrge](https://github.com/RabbittuX/purrge): 🐾 Purrge — macOS AI 磁盘清理工具，支持 Claude Code 和 Codex：空间不足时提醒，AI 逐项判断能清什么，你勾选确认后才清理
-- [JunWan666/astrbot-for-android](https://github.com/JunWan666/astrbot-for-android): 在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。
 - [0xCoach/TaoSheng](https://github.com/0xCoach/TaoSheng): 涛声 TaoSheng：用一部安卓手机全天收音 → 转写 → 认人 → AI 整理成待办与记忆。无需硬件、无需账号，数据只在你手机里。
+- [JunWan666/astrbot-for-android](https://github.com/JunWan666/astrbot-for-android): 在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。
 - [shipwords-dev/shipwords](https://github.com/shipwords-dev/shipwords): Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. \| 新词站群框架：一个新词一
+- [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench): Can AI agents rebuild websites through browser exploration?
 - [amitshekhariitbhu/forward-deployed-engineer-roadmap](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap): Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.
 - [mrhlaingbwardev/agentic-hacking-skills](https://github.com/mrhlaingbwardev/agentic-hacking-skills): AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)
-- [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench): Can AI agents rebuild websites through browser exploration?
-- [rtora/munorai](https://github.com/rtora/munorai): Supercharge the AI you already use. Greener. Better. Faster. Cheaper.
-- [hhtower/price-comparison](https://github.com/hhtower/price-comparison): AI 订阅与卡网比价平台，说出需求，让 AI 帮你选。聚合 ChatGPT / Codex、Claude、Gemini 等代充或账号报价，对比价格走势、充值渠道与质保。AI-powered shopping and price comparison for subscriptio
 - [StashDock/StashDock](https://github.com/StashDock/StashDock): Your AI-native personal context library. Collect, organize and reuse context across AI conversations.
-- [enmerasoftware/ai-design-check](https://github.com/enmerasoftware/ai-design-check): Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. E
-- [lwh0630/TokenBar](https://github.com/lwh0630/TokenBar): Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter
-- [gh9ko8y/graphmemory](https://github.com/gh9ko8y/graphmemory): Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)
-- [heterodoxin/AbliteratedOutTheBox](https://github.com/heterodoxin/AbliteratedOutTheBox): llama.cpp fork that abliterates at inference
-- [h9-tec/ai-roadmap-2026](https://github.com/h9-tec/ai-roadmap-2026): AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources an
-- [tavern-labs-ai/persona-ai-sdk](https://github.com/tavern-labs-ai/persona-ai-sdk): Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.
+- [hhtower/price-comparison](https://github.com/hhtower/price-comparison): AI 订阅与卡网比价平台，说出需求，让 AI 帮你选。聚合 ChatGPT / Codex、Claude、Gemini 等代充或账号报价，对比价格走势、充值渠道与质保。AI-powered shopping and price comparison for subscriptio
+- [rtora/munorai](https://github.com/rtora/munorai): Supercharge the AI you already use. Greener. Better. Faster. Cheaper.
+- [WinnerBrokerBarrow/ai--manus](https://github.com/WinnerBrokerBarrow/ai--manus): AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
+- [BrickMosquito/ai--manus](https://github.com/BrickMosquito/ai--manus): AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
+- [ArcherAmplify/ai--manus](https://github.com/ArcherAmplify/ai--manus): AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
+- [AmplitudePikemanHeed/ai--manus](https://github.com/AmplitudePikemanHeed/ai--manus): AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
+- [Shardclamove/ai--manus](https://github.com/Shardclamove/ai--manus): AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
+- [pyramidteachermap/ai--manus](https://github.com/pyramidteachermap/ai--manus): AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
 ### 🔌 Free APIs
 - [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs): 📚 A public list of APIs from round the web.
@@ -41,7 +41,7 @@
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes): :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide): Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): Curated coding interview preparation materials for busy software engineers
-- [tt-a1i/archify](https://github.com/tt-a1i/archify): Turns ideas, plans, or codebases into interactive diagrams; agent skill.
+- [tt-a1i/archify](https://github.com/tt-a1i/archify): Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 ### 🤖 AI Agents
 - [affaan-m/ECC](https://github.com/affaan-m/ECC): The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code
@@ -65,7 +65,7 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises): Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises): DevOps interview questions across Linux, Jenkins, AWS, SRE, Prometheus, Docker, Kubernetes, Terraform, SQL, and more.
 ### ✨ Awesome Lists
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with t
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
