@@ -99,3 +99,13 @@
 {"timestamp": "2026-11-16T11:09:39.669475+00:00", "action": "OPENROUTER_OK", "details": {"model": "liquid/lfm-3-1.7b:free"}}
 {"timestamp": "2026-11-16T11:09:40.979142+00:00", "action": "RELEASE_OK", "details": "digest-2026-11-16"}
 {"timestamp": "2026-11-16T11:09:40.979321+00:00", "action": "OMNI_HUB_SYNC", "details": {"projects": 39, "rising": 20, "new": 17}}
+{"timestamp": "2026-11-17T11:46:28.067840+00:00", "action": "CATEGORY_OK", "details": {"name": "🔌 Free APIs", "count": 5}}
+{"timestamp": "2026-11-17T11:46:29.959615+00:00", "action": "CATEGORY_OK", "details": {"name": "🗺️ Roadmaps & Learning", "count": 5}}
+{"timestamp": "2026-11-17T11:46:31.729342+00:00", "action": "CATEGORY_OK", "details": {"name": "🏗️ System Design", "count": 5}}
+{"timestamp": "2026-11-17T11:46:33.576503+00:00", "action": "CATEGORY_OK", "details": {"name": "🤖 AI Agents", "count": 5}}
+{"timestamp": "2026-11-17T11:46:35.039699+00:00", "action": "CATEGORY_OK", "details": {"name": "📚 Free Books", "count": 4}}
+{"timestamp": "2026-11-17T11:46:36.840671+00:00", "action": "CATEGORY_OK", "details": {"name": "🔨 Build From Scratch", "count": 5}}
+{"timestamp": "2026-11-17T11:46:38.605546+00:00", "action": "CATEGORY_OK", "details": {"name": "🎯 Interview Prep", "count": 5}}
+{"timestamp": "2026-11-17T11:46:40.320338+00:00", "action": "CATEGORY_OK", "details": {"name": "✨ Awesome Lists", "count": 5}}
+{"timestamp": "2026-11-17T11:46:52.316928+00:00", "action": "OPENROUTER_OK", "details": {"model": "liquid/lfm-3-1.7b:free"}}
+{"timestamp": "2026-11-17T11:46:52.325632+00:00", "action": "OMNI_HUB_SYNC", "details": {"projects": 39, "rising": 20, "new": 2}}

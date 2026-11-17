@@ -1,6 +1,6 @@
 # Omni-Hub
 
-> n0shake/Public-APIs provides a community‑curated collection of publicly available APIs. It serves as a starting point for discovering free services online.
+> This roadmap guides you through the steps needed to become an ASP.NET Core developer by 2026. It offers a structured plan for learning and career growth.
 
 ## Resources
 
@@ -9,25 +9,25 @@
 - [huaxialucaicaizi/ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills): 创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。
 - [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn): AI 作图素材库 · 中文版（脸 / 姿势 / 服装）
 - [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine): AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP inte
-- [weldbladesmithwharf/Gemini-Config-Checker-](https://github.com/weldbladesmithwharf/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
-- [WireProvostPucker/Gemini-Config-Checker-](https://github.com/WireProvostPucker/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
+- [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench): Can AI agents rebuild websites through browser exploration?
+- [StashDock/StashDock](https://github.com/StashDock/StashDock): Your AI-native personal context library. Collect, organize and reuse context across AI conversations.
 - [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
-- [WingDataVacuum/Gemini-Config-Checker-](https://github.com/WingDataVacuum/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
 - [TypeTyrantScheme/Gemini-Config-Checker-](https://github.com/TypeTyrantScheme/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
+- [WingDataVacuum/Gemini-Config-Checker-](https://github.com/WingDataVacuum/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
 - [weightcashiercupola/Gemini-Config-Checker-](https://github.com/weightcashiercupola/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
 - [Violetnyudress/Gemini-Config-Checker-](https://github.com/Violetnyudress/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
-- [Visionbeyondtrack/Gemini-Config-Checker-](https://github.com/Visionbeyondtrack/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
-- [WinnerSpecialist/Gemini-Config-Checker-](https://github.com/WinnerSpecialist/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
+- [weldbladesmithwharf/Gemini-Config-Checker-](https://github.com/weldbladesmithwharf/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
 - [TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
+- [Visionbeyondtrack/Gemini-Config-Checker-](https://github.com/Visionbeyondtrack/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
+- [WireProvostPucker/Gemini-Config-Checker-](https://github.com/WireProvostPucker/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
+- [WinnerSpecialist/Gemini-Config-Checker-](https://github.com/WinnerSpecialist/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
 - [VortexHostFeel/Gemini-Config-Checker-](https://github.com/VortexHostFeel/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
 - [WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
 - [VisionWormStudio/Gemini-Config-Checker-](https://github.com/VisionWormStudio/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
 - [WestLocksmithSpout/Gemini-Config-Checker-](https://github.com/WestLocksmithSpout/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
-- [TrooperFilter/Gemini-Config-Checker-](https://github.com/TrooperFilter/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
-- [wisemeadowlarkspike/Gemini-Config-Checker-](https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
 ### 🔌 Free APIs
 - [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
-- [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs): A public list of APIs from round the web.
+- [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs): 📚 A public list of APIs from round the web.
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists): A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis): A collaborative list of public APIs for developers
 - [googleapis/googleapis](https://github.com/googleapis/googleapis): Public interface definitions of Google APIs.

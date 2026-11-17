@@ -9,8 +9,9 @@
     "https://github.com/NousResearch/hermes-agent",
     "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
     "https://github.com/Snailclimb/JavaGuide",
+    "https://github.com/StashDock/StashDock",
+    "https://github.com/TIGER-AI-Lab/WebsiteBench",
     "https://github.com/TheAlgorithms/Python",
-    "https://github.com/TrooperFilter/Gemini-Config-Checker-",
     "https://github.com/TurtleReside/Gemini-Config-Checker-",
     "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
     "https://github.com/Violetnyudress/Gemini-Config-Checker-",
@@ -57,10 +58,14 @@
     "https://github.com/vinta/awesome-python",
     "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
     "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
-    "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-",
     "https://github.com/yangshun/tech-interview-handbook"
   ],
   "feed": [
+    {
+      "date": "2026-11-17",
+      "title": "2 new projects",
+      "summary": "TIGER-AI-Lab/WebsiteBench, StashDock/StashDock"
+    },
     {
       "date": "2026-11-16",
       "title": "17 new projects",

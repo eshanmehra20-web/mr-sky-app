@@ -1,48 +1,48 @@
 {
-  "updated": "2026-11-16T11:09:18Z",
+  "updated": "2026-11-17T11:46:27Z",
   "categories": {
     "📈 Rising this month": [
       {
         "name": "vercel-labs/ui",
         "url": "https://github.com/vercel-labs/ui",
         "desc": "A library of behaviors for agents to build the next generation of user interfaces.",
-        "stars": 5129,
-        "pushed": "2026-11-16"
+        "stars": 5436,
+        "pushed": "2026-11-17"
       },
       {
         "name": "huaxialucaicaizi/ai-startup-skills",
         "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
         "desc": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-        "stars": 928,
+        "stars": 930,
         "pushed": "2026-11-16"
       },
       {
         "name": "sleepy-zone/ai-ref-library-cn",
         "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
         "desc": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
-        "stars": 773,
+        "stars": 776,
         "pushed": "2026-11-09"
       },
       {
         "name": "hevnsnt/CVEngine",
         "url": "https://github.com/hevnsnt/CVEngine",
         "desc": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-        "stars": 738,
-        "pushed": "2026-11-16"
+        "stars": 741,
+        "pushed": "2026-11-17"
       },
       {
-        "name": "weldbladesmithwharf/Gemini-Config-Checker-",
-        "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
-        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-        "stars": 474,
-        "pushed": "2026-11-15"
+        "name": "TIGER-AI-Lab/WebsiteBench",
+        "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
+        "desc": "Can AI agents rebuild websites through browser exploration?",
+        "stars": 496,
+        "pushed": "2026-11-17"
       },
       {
-        "name": "WireProvostPucker/Gemini-Config-Checker-",
-        "url": "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
-        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-        "stars": 474,
-        "pushed": "2026-11-15"
+        "name": "StashDock/StashDock",
+        "url": "https://github.com/StashDock/StashDock",
+        "desc": "Your AI-native personal context library. Collect, organize and reuse context across AI conversations.",
+        "stars": 489,
+        "pushed": "2026-11-13"
       },
       {
         "name": "YellowLaborerMarket/Gemini-Config-Checker-",
@@ -52,15 +52,15 @@
         "pushed": "2026-11-15"
       },
       {
-        "name": "WingDataVacuum/Gemini-Config-Checker-",
-        "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
+        "name": "TypeTyrantScheme/Gemini-Config-Checker-",
+        "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
         "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
         "stars": 473,
         "pushed": "2026-11-15"
       },
       {
-        "name": "TypeTyrantScheme/Gemini-Config-Checker-",
-        "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
+        "name": "WingDataVacuum/Gemini-Config-Checker-",
+        "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
         "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
         "stars": 473,
         "pushed": "2026-11-15"
@@ -80,15 +80,8 @@
         "pushed": "2026-11-15"
       },
       {
-        "name": "Visionbeyondtrack/Gemini-Config-Checker-",
-        "url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
-        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-        "stars": 473,
-        "pushed": "2026-11-15"
-      },
-      {
-        "name": "WinnerSpecialist/Gemini-Config-Checker-",
-        "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
+        "name": "weldbladesmithwharf/Gemini-Config-Checker-",
+        "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
         "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
         "stars": 473,
         "pushed": "2026-11-15"
@@ -96,6 +89,27 @@
       {
         "name": "TurtleReside/Gemini-Config-Checker-",
         "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
+        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+        "stars": 473,
+        "pushed": "2026-11-15"
+      },
+      {
+        "name": "Visionbeyondtrack/Gemini-Config-Checker-",
+        "url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
+        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+        "stars": 473,
+        "pushed": "2026-11-15"
+      },
+      {
+        "name": "WireProvostPucker/Gemini-Config-Checker-",
+        "url": "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
+        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+        "stars": 473,
+        "pushed": "2026-11-15"
+      },
+      {
+        "name": "WinnerSpecialist/Gemini-Config-Checker-",
+        "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
         "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
         "stars": 473,
         "pushed": "2026-11-15"
@@ -127,20 +141,6 @@
         "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
         "stars": 473,
         "pushed": "2026-11-15"
-      },
-      {
-        "name": "TrooperFilter/Gemini-Config-Checker-",
-        "url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
-        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-        "stars": 473,
-        "pushed": "2026-11-15"
-      },
-      {
-        "name": "wisemeadowlarkspike/Gemini-Config-Checker-",
-        "url": "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-",
-        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-        "stars": 473,
-        "pushed": "2026-11-15"
       }
     ],
     "🔌 Free APIs": [
@@ -148,21 +148,21 @@
         "name": "public-apis/public-apis",
         "url": "https://github.com/public-apis/public-apis",
         "desc": "A collective list of free APIs",
-        "stars": 499446,
+        "stars": 499718,
         "pushed": "2026-11-15"
       },
       {
         "name": "n0shake/Public-APIs",
         "url": "https://github.com/n0shake/Public-APIs",
-        "desc": "A public list of APIs from round the web.",
-        "stars": 24117,
+        "desc": "📚 A public list of APIs from round the web.",
+        "stars": 24124,
         "pushed": "2026-05-03"
       },
       {
         "name": "public-api-lists/public-api-lists",
         "url": "https://github.com/public-api-lists/public-api-lists",
         "desc": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
-        "stars": 16401,
+        "stars": 16406,
         "pushed": "2026-09-14"
       },
       {
@@ -170,14 +170,14 @@
         "url": "https://github.com/marcelscruz/public-apis",
         "desc": "A collaborative list of public APIs for developers",
         "stars": 9739,
-        "pushed": "2026-11-16"
+        "pushed": "2026-11-17"
       },
       {
         "name": "googleapis/googleapis",
         "url": "https://github.com/googleapis/googleapis",
         "desc": "Public interface definitions of Google APIs.",
-        "stars": 8831,
-        "pushed": "2026-11-16"
+        "stars": 8834,
+        "pushed": "2026-11-17"
       }
     ],
     "🗺️ Roadmaps & Learning": [
@@ -185,28 +185,28 @@
         "name": "nilbuild/developer-roadmap",
         "url": "https://github.com/nilbuild/developer-roadmap",
         "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-        "stars": 372125,
-        "pushed": "2026-11-15"
+        "stars": 372206,
+        "pushed": "2026-11-17"
       },
       {
         "name": "MoienTajik/AspNetCore-Developer-Roadmap",
         "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
         "desc": "Roadmap to becoming an ASP.NET Core developer in 2026",
-        "stars": 19671,
+        "stars": 19668,
         "pushed": "2026-01-29"
       },
       {
         "name": "OffcierCia/DeFi-Developer-Road-Map",
         "url": "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
         "desc": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-        "stars": 10903,
+        "stars": 10901,
         "pushed": "2026-11-03"
       },
       {
         "name": "skydoves/android-developer-roadmap",
         "url": "https://github.com/skydoves/android-developer-roadmap",
         "desc": " 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.",
-        "stars": 7808,
+        "stars": 7809,
         "pushed": "2026-05-08"
       },
       {
@@ -222,35 +222,35 @@
         "name": "CyC2018/CS-Notes",
         "url": "https://github.com/CyC2018/CS-Notes",
         "desc": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
-        "stars": 186527,
+        "stars": 186534,
         "pushed": "2026-11-14"
       },
       {
         "name": "Snailclimb/JavaGuide",
         "url": "https://github.com/Snailclimb/JavaGuide",
         "desc": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-        "stars": 159580,
+        "stars": 159597,
         "pushed": "2026-10-25"
       },
       {
         "name": "yangshun/tech-interview-handbook",
         "url": "https://github.com/yangshun/tech-interview-handbook",
         "desc": "Curated coding interview preparation materials for busy software engineers",
-        "stars": 143300,
+        "stars": 143311,
         "pushed": "2026-08-07"
       },
       {
         "name": "tt-a1i/archify",
         "url": "https://github.com/tt-a1i/archify",
         "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-        "stars": 97000,
-        "pushed": "2026-11-16"
+        "stars": 97325,
+        "pushed": "2026-11-17"
       },
       {
         "name": "binhnguyennus/awesome-scalability",
         "url": "https://github.com/binhnguyennus/awesome-scalability",
         "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
-        "stars": 75787,
+        "stars": 75829,
         "pushed": "2026-01-04"
       }
     ],
@@ -259,35 +259,35 @@
         "name": "affaan-m/ECC",
         "url": "https://github.com/affaan-m/ECC",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 304115,
-        "pushed": "2026-11-16"
+        "stars": 304965,
+        "pushed": "2026-11-17"
       },
       {
         "name": "deepseek-ai/deepseek-harness",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
-        "stars": 282088,
+        "stars": 282733,
         "pushed": "2026-11-13"
       },
       {
         "name": "NousResearch/hermes-agent",
         "url": "https://github.com/NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": 263778,
-        "pushed": "2026-11-16"
+        "stars": 264066,
+        "pushed": "2026-11-17"
       },
       {
         "name": "firecrawl/firecrawl",
         "url": "https://github.com/firecrawl/firecrawl",
         "desc": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-        "stars": 202203,
-        "pushed": "2026-11-16"
+        "stars": 202479,
+        "pushed": "2026-11-17"
       },
       {
         "name": "DietrichGebert/ponytail",
         "url": "https://github.com/DietrichGebert/ponytail",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 191759,
+        "stars": 192530,
         "pushed": "2026-10-29"
       }
     ],
@@ -296,14 +296,14 @@
         "name": "EbookFoundation/free-programming-books",
         "url": "https://github.com/EbookFoundation/free-programming-books",
         "desc": ":books: Freely available programming books",
-        "stars": 401669,
+        "stars": 401743,
         "pushed": "2026-11-12"
       },
       {
         "name": "justjavac/free-programming-books-zh_CN",
         "url": "https://github.com/justjavac/free-programming-books-zh_CN",
         "desc": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
-        "stars": 119631,
+        "stars": 119645,
         "pushed": "2026-07-29"
       },
       {
@@ -317,7 +317,7 @@
         "name": "sx4im/programming-books-pdf",
         "url": "https://github.com/sx4im/programming-books-pdf",
         "desc": "Free programming books library: 670+ books across 32 languages, searchable and free forever",
-        "stars": 68,
+        "stars": 69,
         "pushed": "2026-09-27"
       }
     ],
@@ -326,8 +326,8 @@
         "name": "codecrafters-io/build-your-own-x",
         "url": "https://github.com/codecrafters-io/build-your-own-x",
         "desc": "Master programming by recreating your favorite technologies from scratch.",
-        "stars": 563019,
-        "pushed": "2026-11-08"
+        "stars": 563291,
+        "pushed": "2026-11-17"
       },
       {
         "name": "stochasticai/xTuring",
@@ -340,21 +340,21 @@
         "name": "LuwuDynamics/xgoduck_hardware",
         "url": "https://github.com/LuwuDynamics/xgoduck_hardware",
         "desc": "Build your own robot duck. XGO-Duck is a 3D-printable biped powered by Arduino UNO Q and 15 servos, adapted from Pollen Robotics' Microduck. Includes mechanical models, PCB designs, a BOM, and an assembly guide. Build it, explore its motion, and make it your own.",
-        "stars": 1947,
+        "stars": 1960,
         "pushed": "2026-11-13"
       },
       {
         "name": "amitshekhariitbhu/build-your-own-x-machine-learning",
         "url": "https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning",
         "desc": "Build your own X - Master machine learning by building everything from scratch. It aims to cover everything from linear regression to deep learning to large language models (LLMs).",
-        "stars": 792,
+        "stars": 797,
         "pushed": "2026-07-04"
       },
       {
         "name": "XiaomingX/build-your-own-xxx",
         "url": "https://github.com/XiaomingX/build-your-own-xxx",
         "desc": "Learn programming by building popular technologies from scratch. This repository guides you through creating systems like web servers, databases, and interpreters, enhancing your coding skills with practical, hands-on projects.",
-        "stars": 326,
+        "stars": 327,
         "pushed": "2026-02-06"
       }
     ],
@@ -363,35 +363,35 @@
         "name": "donnemartin/system-design-primer",
         "url": "https://github.com/donnemartin/system-design-primer",
         "desc": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
-        "stars": 378034,
+        "stars": 378171,
         "pushed": "2026-09-15"
       },
       {
         "name": "jwasham/coding-interview-university",
         "url": "https://github.com/jwasham/coding-interview-university",
         "desc": "A complete computer science study plan to become a software engineer.",
-        "stars": 364418,
+        "stars": 364459,
         "pushed": "2026-11-07"
       },
       {
         "name": "TheAlgorithms/Python",
         "url": "https://github.com/TheAlgorithms/Python",
         "desc": "All Algorithms implemented in Python",
-        "stars": 226168,
+        "stars": 226189,
         "pushed": "2026-11-13"
       },
       {
         "name": "trekhleb/javascript-algorithms",
         "url": "https://github.com/trekhleb/javascript-algorithms",
         "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-        "stars": 196728,
+        "stars": 196733,
         "pushed": "2026-07-26"
       },
       {
         "name": "bregman-arie/devops-exercises",
         "url": "https://github.com/bregman-arie/devops-exercises",
         "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
-        "stars": 86845,
+        "stars": 86870,
         "pushed": "2025-12-27"
       }
     ],
@@ -400,35 +400,35 @@
         "name": "sindresorhus/awesome",
         "url": "https://github.com/sindresorhus/awesome",
         "desc": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
-        "stars": 537699,
+        "stars": 538249,
         "pushed": "2026-09-02"
       },
       {
         "name": "awesome-selfhosted/awesome-selfhosted",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
         "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
-        "stars": 337554,
-        "pushed": "2026-11-07"
+        "stars": 337883,
+        "pushed": "2026-11-16"
       },
       {
         "name": "vinta/awesome-python",
         "url": "https://github.com/vinta/awesome-python",
         "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-        "stars": 335120,
-        "pushed": "2026-11-16"
+        "stars": 335347,
+        "pushed": "2026-11-17"
       },
       {
         "name": "ossu/computer-science",
         "url": "https://github.com/ossu/computer-science",
         "desc": "🎓 Path to a free self-taught education in Computer Science!",
-        "stars": 211143,
+        "stars": 211199,
         "pushed": "2026-11-09"
       },
       {
         "name": "avelino/awesome-go",
         "url": "https://github.com/avelino/awesome-go",
         "desc": "A curated list of awesome Go frameworks, libraries and software",
-        "stars": 194180,
+        "stars": 194383,
         "pushed": "2026-11-16"
       }
     ]
