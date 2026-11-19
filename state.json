@@ -8,7 +8,6 @@
     "https://github.com/Mr6MJT/LearnForFREE",
     "https://github.com/NousResearch/hermes-agent",
     "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
-    "https://github.com/RabbittuX/purrge",
     "https://github.com/Snailclimb/JavaGuide",
     "https://github.com/TIGER-AI-Lab/WebsiteBench",
     "https://github.com/TheAlgorithms/Python",
@@ -18,7 +17,6 @@
     "https://github.com/Violetnyudress/Gemini-Config-Checker-",
     "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
     "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
-    "https://github.com/WharfBoulderColander/Gemini-Config-Checker-",
     "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
     "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
     "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
@@ -27,6 +25,7 @@
     "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
     "https://github.com/affaan-m/ECC",
     "https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning",
+    "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
     "https://github.com/avelino/awesome-go",
     "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "https://github.com/binhnguyennus/awesome-scalability",
@@ -38,6 +37,7 @@
     "https://github.com/googleapis/googleapis",
     "https://github.com/hevnsnt/CVEngine",
     "https://github.com/huaxialucaicaizi/ai-startup-skills",
+    "https://github.com/interfere-inc/landmines",
     "https://github.com/justjavac/free-programming-books-zh_CN",
     "https://github.com/jwasham/coding-interview-university",
     "https://github.com/marcelscruz/public-apis",
@@ -61,6 +61,11 @@
     "https://github.com/yangshun/tech-interview-handbook"
   ],
   "feed": [
+    {
+      "date": "2026-11-19",
+      "title": "2 new projects",
+      "summary": "interfere-inc/landmines, amitshekhariitbhu/forward-deployed-engineer-roadmap"
+    },
     {
       "date": "2026-11-18",
       "title": "3 new projects",
