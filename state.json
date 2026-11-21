@@ -11,10 +11,10 @@
     "https://github.com/Snailclimb/JavaGuide",
     "https://github.com/TIGER-AI-Lab/WebsiteBench",
     "https://github.com/TheAlgorithms/Python",
+    "https://github.com/TrooperFilter/Gemini-Config-Checker-",
     "https://github.com/TurtleReside/Gemini-Config-Checker-",
     "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
     "https://github.com/Violetnyudress/Gemini-Config-Checker-",
-    "https://github.com/VisionWormStudio/Gemini-Config-Checker-",
     "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
     "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
     "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
@@ -28,6 +28,7 @@
     "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
     "https://github.com/avelino/awesome-go",
     "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "https://github.com/beiwocaishijia/gezhi-sheets",
     "https://github.com/binhnguyennus/awesome-scalability",
     "https://github.com/bregman-arie/devops-exercises",
     "https://github.com/codecrafters-io/build-your-own-x",
@@ -36,7 +37,6 @@
     "https://github.com/firecrawl/firecrawl",
     "https://github.com/googleapis/googleapis",
     "https://github.com/hevnsnt/CVEngine",
-    "https://github.com/huaxialucaicaizi/ai-startup-skills",
     "https://github.com/interfere-inc/landmines",
     "https://github.com/justjavac/free-programming-books-zh_CN",
     "https://github.com/jwasham/coding-interview-university",
@@ -61,6 +61,11 @@
     "https://github.com/yangshun/tech-interview-handbook"
   ],
   "feed": [
+    {
+      "date": "2026-11-21",
+      "title": "2 new projects",
+      "summary": "beiwocaishijia/gezhi-sheets, TrooperFilter/Gemini-Config-Checker-"
+    },
     {
       "date": "2026-11-20",
       "title": "1 new projects",
