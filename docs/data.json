@@ -1,145 +1,145 @@
 {
-  "updated": "2026-11-22T11:16:31Z",
+  "updated": "2026-11-23T12:28:42Z",
   "categories": {
     "📈 Rising this month": [
       {
         "name": "vercel-labs/ui",
         "url": "https://github.com/vercel-labs/ui",
-        "desc": "A library of behaviors for agents to build next generation user interfaces",
-        "stars": 6501,
-        "pushed": "2026-11-22"
+        "desc": "A library of behaviors for agents to build next-generation user interfaces.",
+        "stars": 6631,
+        "pushed": "2026-11-23"
       },
       {
         "name": "XinaTian/MROffice",
         "url": "https://github.com/XinaTian/MROffice",
-        "desc": "MR Office open-source document spreadsheet presentation PDF handwriting code editors",
-        "stars": 2023,
-        "pushed": "2026-11-22"
+        "desc": "Open-source AI office editors for documents, spreadsheets, presentations, PDF, code; Copilot and MCP.",
+        "stars": 2694,
+        "pushed": "2026-11-23"
       },
       {
         "name": "sleepy-zone/ai-ref-library-cn",
         "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
-        "desc": "AI 绘图素材库 中文版 脸 姿势 服装",
-        "stars": 790,
+        "desc": "AI image material library in Chinese: faces, poses, clothing.",
+        "stars": 794,
         "pushed": "2026-11-20"
-      },
-      {
-        "name": "hevnsnt/CVEngine",
-        "url": "https://github.com/hevnsnt/CVEngine",
-        "desc": "AI-first external attack surface assessment continuous discovery evidence-based vulnerability validation",
-        "stars": 747,
-        "pushed": "2026-11-22"
       },
       {
         "name": "interfere-inc/landmines",
         "url": "https://github.com/interfere-inc/landmines",
-        "desc": "Oxlint rules that keep AI-written code honest real implementations real signals",
-        "stars": 704,
-        "pushed": "2026-11-18"
+        "desc": "Oxlint rules keeping AI-written code honest: real implementations, signals, no flake masking.",
+        "stars": 712,
+        "pushed": "2026-11-23"
       },
       {
         "name": "TIGER-AI-Lab/WebsiteBench",
         "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-        "desc": "Can AI agents rebuild websites through browser exploration",
-        "stars": 625,
+        "desc": "Benchmark: can AI agents rebuild websites through browser exploration?",
+        "stars": 670,
         "pushed": "2026-11-17"
       },
       {
         "name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
         "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
-        "desc": "Step-by-step roadmap to become Forward Deployed Engineer in AI",
-        "stars": 550,
-        "pushed": "2026-11-22"
+        "desc": "Step-by-step roadmap to become a Forward Deployed Engineer in AI.",
+        "stars": 588,
+        "pushed": "2026-11-23"
       },
       {
         "name": "beiwocaishijia/gezhi-sheets",
         "url": "https://github.com/beiwocaishijia/gezhi-sheets",
-        "desc": "格知 AI Gezhi Sheets 让表格听懂你的话 支持 GLM Kimi 豆包 DeepSeek Qwen",
-        "stars": 550,
+        "desc": "Local AI spreadsheet assistant supporting GLM, Kimi, Doubao, DeepSeek, Qwen.",
+        "stars": 573,
         "pushed": "2026-11-18"
       },
       {
         "name": "YellowLaborerMarket/Gemini-Config-Checker-",
         "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
-        "desc": "Chain region scanner find proxy configs for Google AI Studio access",
-        "stars": 471,
+        "desc": "Chain region scanner for proxy configs to access Google AI Studio and Gemini.",
+        "stars": 469,
         "pushed": "2026-11-15"
       },
       {
         "name": "weightcashiercupola/Gemini-Config-Checker-",
         "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
-        "desc": "Chain region scanner find proxy configs for Google AI Studio access",
-        "stars": 470,
-        "pushed": "2026-11-15"
-      },
-      {
-        "name": "WinnerSpecialist/Gemini-Config-Checker-",
-        "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
-        "desc": "Chain region scanner find proxy configs for Google AI Studio access",
-        "stars": 469,
-        "pushed": "2026-11-15"
-      },
-      {
-        "name": "TypeTyrantScheme/Gemini-Config-Checker-",
-        "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
-        "desc": "Chain region scanner find proxy configs for Google AI Studio access",
-        "stars": 469,
+        "desc": "Chain region scanner for proxy configs to access Google AI Studio and Gemini.",
+        "stars": 467,
         "pushed": "2026-11-15"
       },
       {
         "name": "WingDataVacuum/Gemini-Config-Checker-",
         "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
-        "desc": "Chain region scanner find proxy configs for Google AI Studio access",
-        "stars": 469,
+        "desc": "Chain region scanner for proxy configs to access Google AI Studio and Gemini.",
+        "stars": 466,
+        "pushed": "2026-11-15"
+      },
+      {
+        "name": "TypeTyrantScheme/Gemini-Config-Checker-",
+        "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
+        "desc": "Chain region scanner for proxy configs to access Google AI Studio and Gemini.",
+        "stars": 466,
+        "pushed": "2026-11-15"
+      },
+      {
+        "name": "WinnerSpecialist/Gemini-Config-Checker-",
+        "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
+        "desc": "Chain region scanner for proxy configs to access Google AI Studio and Gemini.",
+        "stars": 466,
         "pushed": "2026-11-15"
       },
       {
         "name": "Violetnyudress/Gemini-Config-Checker-",
         "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
-        "desc": "Chain region scanner find proxy configs for Google AI Studio access",
-        "stars": 469,
+        "desc": "Chain region scanner for proxy configs to access Google AI Studio and Gemini.",
+        "stars": 466,
         "pushed": "2026-11-15"
       },
       {
         "name": "Visionbeyondtrack/Gemini-Config-Checker-",
         "url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
-        "desc": "Chain region scanner find proxy configs for Google AI Studio access",
-        "stars": 469,
-        "pushed": "2026-11-15"
-      },
-      {
-        "name": "VortexHostFeel/Gemini-Config-Checker-",
-        "url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
-        "desc": "Chain region scanner find proxy configs for Google AI Studio access",
-        "stars": 469,
+        "desc": "Chain region scanner for proxy configs to access Google AI Studio and Gemini.",
+        "stars": 466,
         "pushed": "2026-11-15"
       },
       {
         "name": "weldbladesmithwharf/Gemini-Config-Checker-",
         "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
-        "desc": "Chain region scanner find proxy configs for Google AI Studio access",
-        "stars": 469,
+        "desc": "Chain region scanner for proxy configs to access Google AI Studio and Gemini.",
+        "stars": 466,
         "pushed": "2026-11-15"
       },
       {
-        "name": "WireProvostPucker/Gemini-Config-Checker-",
-        "url": "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
-        "desc": "Chain region scanner find proxy configs for Google AI Studio access",
-        "stars": 469,
-        "pushed": "2026-11-15"
-      },
-      {
-        "name": "TrooperFilter/Gemini-Config-Checker-",
-        "url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
-        "desc": "Chain region scanner find proxy configs for Google AI Studio access",
-        "stars": 469,
+        "name": "VortexHostFeel/Gemini-Config-Checker-",
+        "url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
+        "desc": "Chain region scanner for proxy configs to access Google AI Studio and Gemini.",
+        "stars": 466,
         "pushed": "2026-11-15"
       },
       {
         "name": "TurtleReside/Gemini-Config-Checker-",
         "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
-        "desc": "Chain region scanner find proxy configs for Google AI Studio access",
-        "stars": 469,
+        "desc": "Chain region scanner for proxy configs to access Google AI Studio and Gemini.",
+        "stars": 466,
+        "pushed": "2026-11-15"
+      },
+      {
+        "name": "WireProvostPucker/Gemini-Config-Checker-",
+        "url": "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
+        "desc": "Chain region scanner for proxy configs to access Google AI Studio and Gemini.",
+        "stars": 466,
+        "pushed": "2026-11-15"
+      },
+      {
+        "name": "WindGatorRise37/Gemini-Config-Checker-",
+        "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
+        "desc": "Chain region scanner for proxy configs to access Google AI Studio and Gemini.",
+        "stars": 466,
+        "pushed": "2026-11-15"
+      },
+      {
+        "name": "TrooperFilter/Gemini-Config-Checker-",
+        "url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
+        "desc": "Chain region scanner for proxy configs to access Google AI Studio and Gemini.",
+        "stars": 466,
         "pushed": "2026-11-15"
       }
     ],
@@ -147,72 +147,72 @@
       {
         "name": "public-apis/public-apis",
         "url": "https://github.com/public-apis/public-apis",
-        "desc": "A collective list of free APIs",
-        "stars": 500734,
-        "pushed": "2026-11-20"
+        "desc": "A collective list of free APIs.",
+        "stars": 500959,
+        "pushed": "2026-11-22"
       },
       {
         "name": "n0shake/Public-APIs",
         "url": "https://github.com/n0shake/Public-APIs",
-        "desc": "A public list of APIs from round the web",
-        "stars": 24146,
+        "desc": "A public list of APIs from around the web.",
+        "stars": 24148,
         "pushed": "2026-05-03"
       },
       {
         "name": "public-api-lists/public-api-lists",
         "url": "https://github.com/public-api-lists/public-api-lists",
-        "desc": "A curated list of free public APIs searchable community-maintained",
-        "stars": 16452,
+        "desc": "Curated free public APIs; searchable, community-maintained, with a free JSON API.",
+        "stars": 16458,
         "pushed": "2026-09-14"
       },
       {
         "name": "marcelscruz/public-apis",
         "url": "https://github.com/marcelscruz/public-apis",
-        "desc": "A collaborative list of public APIs for developers",
-        "stars": 9761,
-        "pushed": "2026-11-22"
+        "desc": "A collaborative list of public APIs for developers.",
+        "stars": 9764,
+        "pushed": "2026-11-23"
       },
       {
         "name": "googleapis/googleapis",
         "url": "https://github.com/googleapis/googleapis",
-        "desc": "Public interface definitions of Google APIs",
-        "stars": 8841,
-        "pushed": "2026-11-21"
+        "desc": "Public interface definitions of Google APIs.",
+        "stars": 8843,
+        "pushed": "2026-11-23"
       }
     ],
     "🗺️ Roadmaps & Learning": [
       {
         "name": "nilbuild/developer-roadmap",
         "url": "https://github.com/nilbuild/developer-roadmap",
-        "desc": "Interactive roadmaps guides educational content helping developers grow careers",
-        "stars": 372538,
-        "pushed": "2026-11-20"
+        "desc": "Interactive roadmaps, guides, and educational content for developer career growth.",
+        "stars": 372625,
+        "pushed": "2026-11-22"
       },
       {
         "name": "MoienTajik/AspNetCore-Developer-Roadmap",
         "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
-        "desc": "Roadmap to becoming an ASP.NET Core developer in 2026",
-        "stars": 19669,
+        "desc": "Roadmap to becoming an ASP.NET Core developer in 2026.",
+        "stars": 19668,
         "pushed": "2026-01-29"
       },
       {
         "name": "OffcierCia/DeFi-Developer-Road-Map",
         "url": "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
-        "desc": "DeFi Developer roadmap curated handbook with best tools for DApps development",
-        "stars": 10900,
+        "desc": "Curated DeFi developer handbook with tools, resources, and references for DApps.",
+        "stars": 10903,
         "pushed": "2026-11-03"
       },
       {
         "name": "skydoves/android-developer-roadmap",
         "url": "https://github.com/skydoves/android-developer-roadmap",
-        "desc": "The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems",
-        "stars": 7807,
+        "desc": "Comprehensive learning paths for understanding Android ecosystems.",
+        "stars": 7808,
         "pushed": "2026-05-08"
       },
       {
         "name": "s4kibs4mi/java-developer-roadmap",
         "url": "https://github.com/s4kibs4mi/java-developer-roadmap",
-        "desc": "Roadmap to becoming a Java developer in 2026",
+        "desc": "Roadmap to becoming a Java developer in 2026.",
         "stars": 4551,
         "pushed": "2026-10-06"
       }
@@ -221,36 +221,36 @@
       {
         "name": "CyC2018/CS-Notes",
         "url": "https://github.com/CyC2018/CS-Notes",
-        "desc": "Technical interview essential knowledge Leetcode operating systems networks system design",
-        "stars": 186560,
-        "pushed": "2026-11-14"
+        "desc": "Technical interview basics: Leetcode, operating systems, networks, system design.",
+        "stars": 186567,
+        "pushed": "2026-11-23"
       },
       {
         "name": "Snailclimb/JavaGuide",
         "url": "https://github.com/Snailclimb/JavaGuide",
-        "desc": "Java interview backend guide covering fundamentals database distributed concurrency system design AI",
-        "stars": 159644,
+        "desc": "Java and backend interview guide covering fundamentals, databases, distributed systems, concurrency, design, AI.",
+        "stars": 159647,
         "pushed": "2026-10-25"
       },
       {
         "name": "yangshun/tech-interview-handbook",
         "url": "https://github.com/yangshun/tech-interview-handbook",
-        "desc": "Curated coding interview preparation materials for busy software engineers",
-        "stars": 143590,
+        "desc": "Curated coding interview preparation materials for busy software engineers.",
+        "stars": 143614,
         "pushed": "2026-08-07"
       },
       {
         "name": "tt-a1i/archify",
         "url": "https://github.com/tt-a1i/archify",
-        "desc": "Turn any idea plan or codebase into beautiful interactive diagram",
-        "stars": 98689,
-        "pushed": "2026-11-22"
+        "desc": "Turn ideas, plans, or codebases into interactive diagrams; agent skill.",
+        "stars": 98961,
+        "pushed": "2026-11-23"
       },
       {
         "name": "binhnguyennus/awesome-scalability",
         "url": "https://github.com/binhnguyennus/awesome-scalability",
-        "desc": "The Patterns of Scalable Reliable and Performant Large-Scale Systems",
-        "stars": 75946,
+        "desc": "Patterns of scalable, reliable, performant large-scale systems.",
+        "stars": 75975,
         "pushed": "2026-01-04"
       }
     ],
@@ -258,36 +258,36 @@
       {
         "name": "affaan-m/ECC",
         "url": "https://github.com/affaan-m/ECC",
-        "desc": "Agent harness performance optimization system with skills instincts memory security",
-        "stars": 308599,
-        "pushed": "2026-11-20"
+        "desc": "Agent harness performance optimization: skills, instincts, memory, security, research-first development.",
+        "stars": 309272,
+        "pushed": "2026-11-23"
       },
       {
         "name": "deepseek-ai/deepseek-harness",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
-        "desc": "DeepSeek Harness Everything is a Plugin",
-        "stars": 285322,
+        "desc": "DeepSeek Harness: everything is a plugin.",
+        "stars": 285888,
         "pushed": "2026-11-22"
       },
       {
         "name": "NousResearch/hermes-agent",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "desc": "The agent that grows with you",
-        "stars": 265296,
-        "pushed": "2026-11-22"
+        "desc": "The agent that grows with you.",
+        "stars": 265563,
+        "pushed": "2026-11-23"
       },
       {
         "name": "firecrawl/firecrawl",
         "url": "https://github.com/firecrawl/firecrawl",
-        "desc": "Knowledge infrastructure for smarter agents search scrape access 550+ providers",
-        "stars": 206541,
-        "pushed": "2026-11-22"
+        "desc": "Knowledge infrastructure for agents: search, scrape, access 550+ data providers via one API.",
+        "stars": 207462,
+        "pushed": "2026-11-23"
       },
       {
         "name": "DietrichGebert/ponytail",
         "url": "https://github.com/DietrichGebert/ponytail",
-        "desc": "Makes AI agent think like laziest senior dev best code unwritten",
-        "stars": 196612,
+        "desc": "Makes AI agents think like a lazy senior dev; avoid unnecessary code.",
+        "stars": 197248,
         "pushed": "2026-11-22"
       }
     ],
@@ -295,66 +295,66 @@
       {
         "name": "EbookFoundation/free-programming-books",
         "url": "https://github.com/EbookFoundation/free-programming-books",
-        "desc": "Freely available programming books",
-        "stars": 402062,
+        "desc": "Freely available programming books.",
+        "stars": 402113,
         "pushed": "2026-11-21"
       },
       {
         "name": "justjavac/free-programming-books-zh_CN",
         "url": "https://github.com/justjavac/free-programming-books-zh_CN",
-        "desc": "免费的计算机编程类中文书籍欢迎投稿",
-        "stars": 119685,
+        "desc": "Free computer programming books in Chinese; contributions welcome.",
+        "stars": 119689,
         "pushed": "2026-07-29"
+      },
+      {
+        "name": "Rafiquzzaman420/Free-Programming-Books",
+        "url": "https://github.com/Rafiquzzaman420/Free-Programming-Books",
+        "desc": "No description supplied.",
+        "stars": 554,
+        "pushed": "2026-11-23"
       },
       {
         "name": "Mr6MJT/LearnForFREE",
         "url": "https://github.com/Mr6MJT/LearnForFREE",
-        "desc": "Free books for learning pentesting programming networking crypto reverse engineering",
+        "desc": "Books for pentesting, programming, networking, crypto, reverse engineering, web hacking.",
         "stars": 98,
         "pushed": "2026-09-29"
-      },
-      {
-        "name": "sx4im/programming-books-pdf",
-        "url": "https://github.com/sx4im/programming-books-pdf",
-        "desc": "Free programming books library 670+ books across 32 languages searchable free forever",
-        "stars": 73,
-        "pushed": "2026-09-27"
       }
     ],
     "🔨 Build From Scratch": [
       {
         "name": "codecrafters-io/build-your-own-x",
         "url": "https://github.com/codecrafters-io/build-your-own-x",
-        "desc": "Master programming by recreating your favorite technologies from scratch",
-        "stars": 564599,
+        "desc": "Master programming by recreating favorite technologies from scratch.",
+        "stars": 564877,
         "pushed": "2026-11-19"
       },
       {
         "name": "stochasticai/xTuring",
         "url": "https://github.com/stochasticai/xTuring",
-        "desc": "Build personalize control your own LLMs easy open-source LLM fine-tuning",
-        "stars": 2680,
+        "desc": "Build, personalize, and control your own LLMs from preprocessing to fine-tuning.",
+        "stars": 2681,
         "pushed": "2026-11-05"
       },
       {
         "name": "LuwuDynamics/xgoduck_hardware",
         "url": "https://github.com/LuwuDynamics/xgoduck_hardware",
-        "desc": "Build your own 3D-printable robot duck with Arduino servos assembly guide",
-        "stars": 1995,
+        "desc": "Build a 3D-printable robot duck with Arduino UNO Q and 15 servos.",
+        "stars": 2004,
         "pushed": "2026-11-19"
       },
       {
         "name": "amitshekhariitbhu/build-your-own-x-machine-learning",
         "url": "https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning",
-        "desc": "Master ML by building from scratch linear regression to LLMs",
-        "stars": 806,
+        "desc": "Master machine learning by building from linear regression to LLMs.",
+        "stars": 808,
         "pushed": "2026-07-04"
       },
       {
         "name": "XiaomingX/build-your-own-xxx",
         "url": "https://github.com/XiaomingX/build-your-own-xxx",
-        "desc": "Learn programming by building web servers databases interpreters from scratch",
-        "stars": 329,
+        "desc": "Learn programming by building popular technologies from scratch, including servers, databases, interpreters.",
+        "stars": 330,
         "pushed": "2026-02-06"
       }
     ],
@@ -362,36 +362,36 @@
       {
         "name": "donnemartin/system-design-primer",
         "url": "https://github.com/donnemartin/system-design-primer",
-        "desc": "Learn how to design large-scale systems prep for system design interview",
-        "stars": 378775,
+        "desc": "Learn large-scale system design; includes system design interview prep and Anki flashcards.",
+        "stars": 378894,
         "pushed": "2026-09-15"
       },
       {
         "name": "jwasham/coding-interview-university",
         "url": "https://github.com/jwasham/coding-interview-university",
-        "desc": "A complete computer science study plan to become a software engineer",
-        "stars": 364774,
+        "desc": "Complete computer science study plan to become a software engineer.",
+        "stars": 364832,
         "pushed": "2026-11-07"
       },
       {
         "name": "TheAlgorithms/Python",
         "url": "https://github.com/TheAlgorithms/Python",
-        "desc": "All Algorithms implemented in Python",
-        "stars": 226384,
+        "desc": "All algorithms implemented in Python.",
+        "stars": 226409,
         "pushed": "2026-11-13"
       },
       {
         "name": "trekhleb/javascript-algorithms",
         "url": "https://github.com/trekhleb/javascript-algorithms",
-        "desc": "Algorithms and data structures implemented in JavaScript with explanations",
-        "stars": 196761,
+        "desc": "Algorithms and data structures in JavaScript with explanations and further reading links.",
+        "stars": 196766,
         "pushed": "2026-07-26"
       },
       {
         "name": "bregman-arie/devops-exercises",
         "url": "https://github.com/bregman-arie/devops-exercises",
-        "desc": "DevOps exercises Linux AWS Kubernetes Docker Terraform interview questions",
-        "stars": 86911,
+        "desc": "DevOps interview questions covering Linux, cloud, SRE, containers, IaC, databases, networking.",
+        "stars": 86916,
         "pushed": "2025-12-27"
       }
     ],
@@ -399,37 +399,37 @@
       {
         "name": "sindresorhus/awesome",
         "url": "https://github.com/sindresorhus/awesome",
-        "desc": "Awesome lists on interesting topics PRs temporarily disabled",
-        "stars": 540776,
+        "desc": "Awesome lists about all kinds of interesting topics.",
+        "stars": 541385,
         "pushed": "2026-09-02"
       },
       {
         "name": "awesome-selfhosted/awesome-selfhosted",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-        "desc": "Free software network services and web apps for self-hosting",
-        "stars": 339398,
-        "pushed": "2026-11-17"
+        "desc": "Free Software network services and web applications for self-hosting.",
+        "stars": 339707,
+        "pushed": "2026-11-22"
       },
       {
         "name": "vinta/awesome-python",
         "url": "https://github.com/vinta/awesome-python",
-        "desc": "The definitive list that answers I want to do X in Python",
-        "stars": 336369,
+        "desc": "Definitive list for choosing Python tools by task.",
+        "stars": 336586,
         "pushed": "2026-11-17"
       },
       {
         "name": "ossu/computer-science",
         "url": "https://github.com/ossu/computer-science",
-        "desc": "Path to a free self-taught education in Computer Science",
-        "stars": 211417,
+        "desc": "Path to a free self-taught education in Computer Science.",
+        "stars": 211452,
         "pushed": "2026-11-09"
       },
       {
         "name": "avelino/awesome-go",
         "url": "https://github.com/avelino/awesome-go",
-        "desc": "A curated list of awesome Go frameworks libraries and software",
-        "stars": 195321,
-        "pushed": "2026-11-21"
+        "desc": "Curated list of awesome Go frameworks, libraries, and software.",
+        "stars": 195509,
+        "pushed": "2026-11-23"
       }
     ]
   }

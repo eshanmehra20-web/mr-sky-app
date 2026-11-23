@@ -8,6 +8,7 @@
     "https://github.com/Mr6MJT/LearnForFREE",
     "https://github.com/NousResearch/hermes-agent",
     "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
+    "https://github.com/Rafiquzzaman420/Free-Programming-Books",
     "https://github.com/Snailclimb/JavaGuide",
     "https://github.com/TIGER-AI-Lab/WebsiteBench",
     "https://github.com/TheAlgorithms/Python",
@@ -17,6 +18,7 @@
     "https://github.com/Violetnyudress/Gemini-Config-Checker-",
     "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
     "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
+    "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
     "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
     "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
     "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
@@ -36,7 +38,6 @@
     "https://github.com/donnemartin/system-design-primer",
     "https://github.com/firecrawl/firecrawl",
     "https://github.com/googleapis/googleapis",
-    "https://github.com/hevnsnt/CVEngine",
     "https://github.com/interfere-inc/landmines",
     "https://github.com/justjavac/free-programming-books-zh_CN",
     "https://github.com/jwasham/coding-interview-university",
@@ -51,7 +52,6 @@
     "https://github.com/skydoves/android-developer-roadmap",
     "https://github.com/sleepy-zone/ai-ref-library-cn",
     "https://github.com/stochasticai/xTuring",
-    "https://github.com/sx4im/programming-books-pdf",
     "https://github.com/trekhleb/javascript-algorithms",
     "https://github.com/tt-a1i/archify",
     "https://github.com/vercel-labs/ui",
@@ -61,6 +61,11 @@
     "https://github.com/yangshun/tech-interview-handbook"
   ],
   "feed": [
+    {
+      "date": "2026-11-23",
+      "title": "2 new projects",
+      "summary": "Rafiquzzaman420/Free-Programming-Books, WindGatorRise37/Gemini-Config-Checker-"
+    },
     {
       "date": "2026-11-22",
       "title": "1 new projects",

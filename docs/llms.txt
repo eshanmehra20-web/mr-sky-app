@@ -1,74 +1,76 @@
 # Omni-Hub
 
-> The Android Developer Roadmap provides structured learning paths covering Android fundamentals, modern architecture, Jetpack Compose, and career growth guidance. Ideal for developers targeting Android expertise.
+> Honest developer-resource curation using only supplied names and descriptions.
+The requested pick is vercel-labs/ui.
+No capabilities, metrics, urgency, or scarcity are added.
 
 ## Resources
 
 ### 📈 Rising this month
-- [vercel-labs/ui](https://github.com/vercel-labs/ui): A library of behaviors for agents to build next generation user interfaces
-- [XinaTian/MROffice](https://github.com/XinaTian/MROffice): MR Office open-source document spreadsheet presentation PDF handwriting code editors
-- [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn): AI 绘图素材库 中文版 脸 姿势 服装
-- [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine): AI-first external attack surface assessment continuous discovery evidence-based vulnerability validation
-- [interfere-inc/landmines](https://github.com/interfere-inc/landmines): Oxlint rules that keep AI-written code honest real implementations real signals
-- [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench): Can AI agents rebuild websites through browser exploration
-- [amitshekhariitbhu/forward-deployed-engineer-roadmap](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap): Step-by-step roadmap to become Forward Deployed Engineer in AI
-- [beiwocaishijia/gezhi-sheets](https://github.com/beiwocaishijia/gezhi-sheets): 格知 AI Gezhi Sheets 让表格听懂你的话 支持 GLM Kimi 豆包 DeepSeek Qwen
-- [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-): Chain region scanner find proxy configs for Google AI Studio access
-- [weightcashiercupola/Gemini-Config-Checker-](https://github.com/weightcashiercupola/Gemini-Config-Checker-): Chain region scanner find proxy configs for Google AI Studio access
-- [WinnerSpecialist/Gemini-Config-Checker-](https://github.com/WinnerSpecialist/Gemini-Config-Checker-): Chain region scanner find proxy configs for Google AI Studio access
-- [TypeTyrantScheme/Gemini-Config-Checker-](https://github.com/TypeTyrantScheme/Gemini-Config-Checker-): Chain region scanner find proxy configs for Google AI Studio access
-- [WingDataVacuum/Gemini-Config-Checker-](https://github.com/WingDataVacuum/Gemini-Config-Checker-): Chain region scanner find proxy configs for Google AI Studio access
-- [Violetnyudress/Gemini-Config-Checker-](https://github.com/Violetnyudress/Gemini-Config-Checker-): Chain region scanner find proxy configs for Google AI Studio access
-- [Visionbeyondtrack/Gemini-Config-Checker-](https://github.com/Visionbeyondtrack/Gemini-Config-Checker-): Chain region scanner find proxy configs for Google AI Studio access
-- [VortexHostFeel/Gemini-Config-Checker-](https://github.com/VortexHostFeel/Gemini-Config-Checker-): Chain region scanner find proxy configs for Google AI Studio access
-- [weldbladesmithwharf/Gemini-Config-Checker-](https://github.com/weldbladesmithwharf/Gemini-Config-Checker-): Chain region scanner find proxy configs for Google AI Studio access
-- [WireProvostPucker/Gemini-Config-Checker-](https://github.com/WireProvostPucker/Gemini-Config-Checker-): Chain region scanner find proxy configs for Google AI Studio access
-- [TrooperFilter/Gemini-Config-Checker-](https://github.com/TrooperFilter/Gemini-Config-Checker-): Chain region scanner find proxy configs for Google AI Studio access
-- [TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-): Chain region scanner find proxy configs for Google AI Studio access
+- [vercel-labs/ui](https://github.com/vercel-labs/ui): A library of behaviors for agents to build next-generation user interfaces.
+- [XinaTian/MROffice](https://github.com/XinaTian/MROffice): Open-source AI office editors for documents, spreadsheets, presentations, PDF, code; Copilot and MCP.
+- [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn): AI image material library in Chinese: faces, poses, clothing.
+- [interfere-inc/landmines](https://github.com/interfere-inc/landmines): Oxlint rules keeping AI-written code honest: real implementations, signals, no flake masking.
+- [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench): Benchmark: can AI agents rebuild websites through browser exploration?
+- [amitshekhariitbhu/forward-deployed-engineer-roadmap](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap): Step-by-step roadmap to become a Forward Deployed Engineer in AI.
+- [beiwocaishijia/gezhi-sheets](https://github.com/beiwocaishijia/gezhi-sheets): Local AI spreadsheet assistant supporting GLM, Kimi, Doubao, DeepSeek, Qwen.
+- [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-): Chain region scanner for proxy configs to access Google AI Studio and Gemini.
+- [weightcashiercupola/Gemini-Config-Checker-](https://github.com/weightcashiercupola/Gemini-Config-Checker-): Chain region scanner for proxy configs to access Google AI Studio and Gemini.
+- [WingDataVacuum/Gemini-Config-Checker-](https://github.com/WingDataVacuum/Gemini-Config-Checker-): Chain region scanner for proxy configs to access Google AI Studio and Gemini.
+- [TypeTyrantScheme/Gemini-Config-Checker-](https://github.com/TypeTyrantScheme/Gemini-Config-Checker-): Chain region scanner for proxy configs to access Google AI Studio and Gemini.
+- [WinnerSpecialist/Gemini-Config-Checker-](https://github.com/WinnerSpecialist/Gemini-Config-Checker-): Chain region scanner for proxy configs to access Google AI Studio and Gemini.
+- [Violetnyudress/Gemini-Config-Checker-](https://github.com/Violetnyudress/Gemini-Config-Checker-): Chain region scanner for proxy configs to access Google AI Studio and Gemini.
+- [Visionbeyondtrack/Gemini-Config-Checker-](https://github.com/Visionbeyondtrack/Gemini-Config-Checker-): Chain region scanner for proxy configs to access Google AI Studio and Gemini.
+- [weldbladesmithwharf/Gemini-Config-Checker-](https://github.com/weldbladesmithwharf/Gemini-Config-Checker-): Chain region scanner for proxy configs to access Google AI Studio and Gemini.
+- [VortexHostFeel/Gemini-Config-Checker-](https://github.com/VortexHostFeel/Gemini-Config-Checker-): Chain region scanner for proxy configs to access Google AI Studio and Gemini.
+- [TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-): Chain region scanner for proxy configs to access Google AI Studio and Gemini.
+- [WireProvostPucker/Gemini-Config-Checker-](https://github.com/WireProvostPucker/Gemini-Config-Checker-): Chain region scanner for proxy configs to access Google AI Studio and Gemini.
+- [WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-): Chain region scanner for proxy configs to access Google AI Studio and Gemini.
+- [TrooperFilter/Gemini-Config-Checker-](https://github.com/TrooperFilter/Gemini-Config-Checker-): Chain region scanner for proxy configs to access Google AI Studio and Gemini.
 ### 🔌 Free APIs
-- [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
-- [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs): A public list of APIs from round the web
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists): A curated list of free public APIs searchable community-maintained
-- [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis): A collaborative list of public APIs for developers
-- [googleapis/googleapis](https://github.com/googleapis/googleapis): Public interface definitions of Google APIs
+- [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs.
+- [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs): A public list of APIs from around the web.
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists): Curated free public APIs; searchable, community-maintained, with a free JSON API.
+- [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis): A collaborative list of public APIs for developers.
+- [googleapis/googleapis](https://github.com/googleapis/googleapis): Public interface definitions of Google APIs.
 ### 🗺️ Roadmaps & Learning
-- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap): Interactive roadmaps guides educational content helping developers grow careers
-- [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap): Roadmap to becoming an ASP.NET Core developer in 2026
-- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map): DeFi Developer roadmap curated handbook with best tools for DApps development
-- [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap): The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems
-- [s4kibs4mi/java-developer-roadmap](https://github.com/s4kibs4mi/java-developer-roadmap): Roadmap to becoming a Java developer in 2026
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap): Interactive roadmaps, guides, and educational content for developer career growth.
+- [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap): Roadmap to becoming an ASP.NET Core developer in 2026.
+- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map): Curated DeFi developer handbook with tools, resources, and references for DApps.
+- [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap): Comprehensive learning paths for understanding Android ecosystems.
+- [s4kibs4mi/java-developer-roadmap](https://github.com/s4kibs4mi/java-developer-roadmap): Roadmap to becoming a Java developer in 2026.
 ### 🏗️ System Design
-- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes): Technical interview essential knowledge Leetcode operating systems networks system design
-- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide): Java interview backend guide covering fundamentals database distributed concurrency system design AI
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): Curated coding interview preparation materials for busy software engineers
-- [tt-a1i/archify](https://github.com/tt-a1i/archify): Turn any idea plan or codebase into beautiful interactive diagram
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): The Patterns of Scalable Reliable and Performant Large-Scale Systems
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes): Technical interview basics: Leetcode, operating systems, networks, system design.
+- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide): Java and backend interview guide covering fundamentals, databases, distributed systems, concurrency, design, AI.
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): Curated coding interview preparation materials for busy software engineers.
+- [tt-a1i/archify](https://github.com/tt-a1i/archify): Turn ideas, plans, or codebases into interactive diagrams; agent skill.
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): Patterns of scalable, reliable, performant large-scale systems.
 ### 🤖 AI Agents
-- [affaan-m/ECC](https://github.com/affaan-m/ECC): Agent harness performance optimization system with skills instincts memory security
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness): DeepSeek Harness Everything is a Plugin
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent): The agent that grows with you
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl): Knowledge infrastructure for smarter agents search scrape access 550+ providers
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail): Makes AI agent think like laziest senior dev best code unwritten
+- [affaan-m/ECC](https://github.com/affaan-m/ECC): Agent harness performance optimization: skills, instincts, memory, security, research-first development.
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness): DeepSeek Harness: everything is a plugin.
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent): The agent that grows with you.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl): Knowledge infrastructure for agents: search, scrape, access 550+ data providers via one API.
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail): Makes AI agents think like a lazy senior dev; avoid unnecessary code.
 ### 📚 Free Books
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): Freely available programming books
-- [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN): 免费的计算机编程类中文书籍欢迎投稿
-- [Mr6MJT/LearnForFREE](https://github.com/Mr6MJT/LearnForFREE): Free books for learning pentesting programming networking crypto reverse engineering
-- [sx4im/programming-books-pdf](https://github.com/sx4im/programming-books-pdf): Free programming books library 670+ books across 32 languages searchable free forever
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): Freely available programming books.
+- [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN): Free computer programming books in Chinese; contributions welcome.
+- [Rafiquzzaman420/Free-Programming-Books](https://github.com/Rafiquzzaman420/Free-Programming-Books): No description supplied.
+- [Mr6MJT/LearnForFREE](https://github.com/Mr6MJT/LearnForFREE): Books for pentesting, programming, networking, crypto, reverse engineering, web hacking.
 ### 🔨 Build From Scratch
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): Master programming by recreating your favorite technologies from scratch
-- [stochasticai/xTuring](https://github.com/stochasticai/xTuring): Build personalize control your own LLMs easy open-source LLM fine-tuning
-- [LuwuDynamics/xgoduck_hardware](https://github.com/LuwuDynamics/xgoduck_hardware): Build your own 3D-printable robot duck with Arduino servos assembly guide
-- [amitshekhariitbhu/build-your-own-x-machine-learning](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning): Master ML by building from scratch linear regression to LLMs
-- [XiaomingX/build-your-own-xxx](https://github.com/XiaomingX/build-your-own-xxx): Learn programming by building web servers databases interpreters from scratch
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): Master programming by recreating favorite technologies from scratch.
+- [stochasticai/xTuring](https://github.com/stochasticai/xTuring): Build, personalize, and control your own LLMs from preprocessing to fine-tuning.
+- [LuwuDynamics/xgoduck_hardware](https://github.com/LuwuDynamics/xgoduck_hardware): Build a 3D-printable robot duck with Arduino UNO Q and 15 servos.
+- [amitshekhariitbhu/build-your-own-x-machine-learning](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning): Master machine learning by building from linear regression to LLMs.
+- [XiaomingX/build-your-own-xxx](https://github.com/XiaomingX/build-your-own-xxx): Learn programming by building popular technologies from scratch, including servers, databases, interpreters.
 ### 🎯 Interview Prep
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems prep for system design interview
-- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer
-- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
-- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): Algorithms and data structures implemented in JavaScript with explanations
-- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises): DevOps exercises Linux AWS Kubernetes Docker Terraform interview questions
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): Learn large-scale system design; includes system design interview prep and Anki flashcards.
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university): Complete computer science study plan to become a software engineer.
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All algorithms implemented in Python.
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): Algorithms and data structures in JavaScript with explanations and further reading links.
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises): DevOps interview questions covering Linux, cloud, SRE, containers, IaC, databases, networking.
 ### ✨ Awesome Lists
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome): Awesome lists on interesting topics PRs temporarily disabled
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): Free software network services and web apps for self-hosting
-- [vinta/awesome-python](https://github.com/vinta/awesome-python): The definitive list that answers I want to do X in Python
-- [ossu/computer-science](https://github.com/ossu/computer-science): Path to a free self-taught education in Computer Science
-- [avelino/awesome-go](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks libraries and software
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome): Awesome lists about all kinds of interesting topics.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): Free Software network services and web applications for self-hosting.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python): Definitive list for choosing Python tools by task.
+- [ossu/computer-science](https://github.com/ossu/computer-science): Path to a free self-taught education in Computer Science.
+- [avelino/awesome-go](https://github.com/avelino/awesome-go): Curated list of awesome Go frameworks, libraries, and software.
