@@ -13,11 +13,11 @@
     "https://github.com/Snailclimb/JavaGuide",
     "https://github.com/TIGER-AI-Lab/WebsiteBench",
     "https://github.com/TheAlgorithms/Python",
-    "https://github.com/TrooperFilter/Gemini-Config-Checker-",
-    "https://github.com/TurtleReside/Gemini-Config-Checker-",
     "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
     "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+    "https://github.com/VisionWormStudio/Gemini-Config-Checker-",
     "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
+    "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
     "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
     "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
     "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
@@ -44,6 +44,7 @@
     "https://github.com/marcelscruz/public-apis",
     "https://github.com/n0shake/Public-APIs",
     "https://github.com/nilbuild/developer-roadmap",
+    "https://github.com/opensetlabs/openset-llm",
     "https://github.com/ossu/computer-science",
     "https://github.com/public-api-lists/public-api-lists",
     "https://github.com/public-apis/public-apis",
@@ -57,10 +58,14 @@
     "https://github.com/tt-a1i/archify",
     "https://github.com/vinta/awesome-python",
     "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
-    "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
     "https://github.com/yangshun/tech-interview-handbook"
   ],
   "feed": [
+    {
+      "date": "2026-11-26",
+      "title": "3 new projects",
+      "summary": "opensetlabs/openset-llm, VortexHostFeel/Gemini-Config-Checker-, VisionWormStudio/Gemini-Config-Checker-"
+    },
     {
       "date": "2026-11-25",
       "title": "2 new projects",

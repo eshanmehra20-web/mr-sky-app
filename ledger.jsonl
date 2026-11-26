@@ -190,3 +190,13 @@
 {"timestamp": "2026-11-25T12:47:01.747444+00:00", "action": "CATEGORY_OK", "details": {"name": "✨ Awesome Lists", "count": 5}}
 {"timestamp": "2026-11-25T12:47:31.827709+00:00", "action": "OPENROUTER_OK", "details": {"model": "nvidia/nemotron-3-ultra-550b-a55b:free"}}
 {"timestamp": "2026-11-25T12:47:31.834392+00:00", "action": "OMNI_HUB_SYNC", "details": {"projects": 39, "rising": 20, "new": 2}}
+{"timestamp": "2026-11-26T12:24:57.229107+00:00", "action": "CATEGORY_OK", "details": {"name": "🔌 Free APIs", "count": 5}}
+{"timestamp": "2026-11-26T12:24:59.030165+00:00", "action": "CATEGORY_OK", "details": {"name": "🗺️ Roadmaps & Learning", "count": 5}}
+{"timestamp": "2026-11-26T12:25:01.195910+00:00", "action": "CATEGORY_OK", "details": {"name": "🏗️ System Design", "count": 5}}
+{"timestamp": "2026-11-26T12:25:03.339851+00:00", "action": "CATEGORY_OK", "details": {"name": "🤖 AI Agents", "count": 5}}
+{"timestamp": "2026-11-26T12:25:04.874386+00:00", "action": "CATEGORY_OK", "details": {"name": "📚 Free Books", "count": 4}}
+{"timestamp": "2026-11-26T12:25:06.680318+00:00", "action": "CATEGORY_OK", "details": {"name": "🔨 Build From Scratch", "count": 5}}
+{"timestamp": "2026-11-26T12:25:08.494938+00:00", "action": "CATEGORY_OK", "details": {"name": "🎯 Interview Prep", "count": 5}}
+{"timestamp": "2026-11-26T12:25:10.312855+00:00", "action": "CATEGORY_OK", "details": {"name": "✨ Awesome Lists", "count": 5}}
+{"timestamp": "2026-11-26T12:25:35.018210+00:00", "action": "OPENROUTER_OK", "details": {"model": "liquid/lfm-3-1.7b:free"}}
+{"timestamp": "2026-11-26T12:25:35.025219+00:00", "action": "OMNI_HUB_SYNC", "details": {"projects": 39, "rising": 20, "new": 3}}
