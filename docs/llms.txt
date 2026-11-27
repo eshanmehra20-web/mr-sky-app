@@ -1,30 +1,32 @@
 # Omni-Hub
 
-> LuwuDynamics/xgoduck_hardware provides instructions to build a 3D‑printable biped robot duck. It uses Arduino UNO Q and 15 servos.
+> I used only the supplied repository names and descriptions.
+The list covers public APIs, roadmaps, algorithms, AI harnesses, and learning resources.
+I picked opensetlabs/openset-llm for its local LLM inference focus.
 
 ## Resources
 
 ### 📈 Rising this month
 - [XinaTian/MROffice](https://github.com/XinaTian/MROffice): MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code
-- [opensetlabs/openset-llm](https://github.com/opensetlabs/openset-llm): Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server.
-- [interfere-inc/landmines](https://github.com/interfere-inc/landmines): Oxlint rules that keep AI-written code honest: real implementations, real signals, no flake masking.
-- [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn): AI 作图素材库 · 中文版（脸 / 姿势 / 服装）
+- [opensetlabs/openset-llm](https://github.com/opensetlabs/openset-llm): Fast local LLM inference on plain CPUs. No GPU, 8 GB RAM. OpenAI-compatible server.
 - [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench): Can AI agents rebuild websites through browser exploration?
+- [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn): AI 作图素材库 · 中文版（脸 / 姿势 / 服装）
 - [amitshekhariitbhu/forward-deployed-engineer-roadmap](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap): Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.
 - [beiwocaishijia/gezhi-sheets](https://github.com/beiwocaishijia/gezhi-sheets): 格知 AI · Gezhi Sheets｜让表格听懂你的话。支持 GLM、Kimi、豆包、DeepSeek、Qwen 的本地 AI 表格助手。
 - [thesysdev/opendashboards](https://github.com/thesysdev/opendashboards): Open Source Claude Dashboards
-- [KenKaiii/Roamies](https://github.com/KenKaiii/Roamies): Desktop creatures with an AI sidekick that lives on your screen. Talk to it, it remembers what you said you'd do, reminds you and points at 
 - [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
 - [weightcashiercupola/Gemini-Config-Checker-](https://github.com/weightcashiercupola/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
+- [WinnerSpecialist/Gemini-Config-Checker-](https://github.com/WinnerSpecialist/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
 - [WingDataVacuum/Gemini-Config-Checker-](https://github.com/WingDataVacuum/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
 - [TypeTyrantScheme/Gemini-Config-Checker-](https://github.com/TypeTyrantScheme/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
-- [WinnerSpecialist/Gemini-Config-Checker-](https://github.com/WinnerSpecialist/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
+- [weldbladesmithwharf/Gemini-Config-Checker-](https://github.com/weldbladesmithwharf/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
 - [Violetnyudress/Gemini-Config-Checker-](https://github.com/Violetnyudress/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
-- [WireProvostPucker/Gemini-Config-Checker-](https://github.com/WireProvostPucker/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
 - [Visionbeyondtrack/Gemini-Config-Checker-](https://github.com/Visionbeyondtrack/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
-- [VortexHostFeel/Gemini-Config-Checker-](https://github.com/VortexHostFeel/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
-- [WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
 - [VisionWormStudio/Gemini-Config-Checker-](https://github.com/VisionWormStudio/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
+- [WestLocksmithSpout/Gemini-Config-Checker-](https://github.com/WestLocksmithSpout/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
+- [VortexHostFeel/Gemini-Config-Checker-](https://github.com/VortexHostFeel/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
+- [WireProvostPucker/Gemini-Config-Checker-](https://github.com/WireProvostPucker/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
+- [WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-): Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Lin
 ### 🔌 Free APIs
 - [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs): 📚 A public list of APIs from round the web.
@@ -57,7 +59,7 @@
 ### 🔨 Build From Scratch
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): Master programming by recreating your favorite technologies from scratch.
 - [stochasticai/xTuring](https://github.com/stochasticai/xTuring): Build, personalize and control your own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-sour
-- [LuwuDynamics/xgoduck_hardware](https://github.com/LuwuDynamics/xgoduck_hardware): Build your own robot duck. Uses Arduino UNO Q and 15 servos.
+- [LuwuDynamics/xgoduck_hardware](https://github.com/LuwuDynamics/xgoduck_hardware): Build your own robot duck. XGO-Duck is a 3D-printable biped powered by Arduino UNO Q and 15 servos, adapted from Pollen Robotics' Microduck.
 - [amitshekhariitbhu/build-your-own-x-machine-learning](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning): Build your own X - Master machine learning by building everything from scratch. It aims to cover everything from linear regression to deep l
 - [XiaomingX/build-your-own-xxx](https://github.com/XiaomingX/build-your-own-xxx): Learn programming by building popular technologies from scratch. This repository guides you through creating systems like web servers, datab
 ### 🎯 Interview Prep

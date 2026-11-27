@@ -3,7 +3,6 @@
     "https://github.com/CyC2018/CS-Notes",
     "https://github.com/DietrichGebert/ponytail",
     "https://github.com/EbookFoundation/free-programming-books",
-    "https://github.com/KenKaiii/Roamies",
     "https://github.com/LuwuDynamics/xgoduck_hardware",
     "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
     "https://github.com/Mr6MJT/LearnForFREE",
@@ -18,6 +17,7 @@
     "https://github.com/VisionWormStudio/Gemini-Config-Checker-",
     "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
     "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
+    "https://github.com/WestLocksmithSpout/Gemini-Config-Checker-",
     "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
     "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
     "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
@@ -38,7 +38,6 @@
     "https://github.com/donnemartin/system-design-primer",
     "https://github.com/firecrawl/firecrawl",
     "https://github.com/googleapis/googleapis",
-    "https://github.com/interfere-inc/landmines",
     "https://github.com/justjavac/free-programming-books-zh_CN",
     "https://github.com/jwasham/coding-interview-university",
     "https://github.com/marcelscruz/public-apis",
@@ -58,9 +57,15 @@
     "https://github.com/tt-a1i/archify",
     "https://github.com/vinta/awesome-python",
     "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
+    "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
     "https://github.com/yangshun/tech-interview-handbook"
   ],
   "feed": [
+    {
+      "date": "2026-11-27",
+      "title": "2 new projects",
+      "summary": "weldbladesmithwharf/Gemini-Config-Checker-, WestLocksmithSpout/Gemini-Config-Checker-"
+    },
     {
       "date": "2026-11-26",
       "title": "3 new projects",
